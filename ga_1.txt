@@ -1,0 +1,428 @@
+
+
+
+
+<html>
+<head>
+  <title> NSR Query Results </title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+</head>
+
+<body bgcolor="white">
+
+<p>
+<h2>NSR Query Results</h2>
+
+<p>
+<hr>
+
+
+
+<p>
+
+Publication year range : 1910 to 2009 <br>
+
+
+Primary references only.<br>
+ 
+
+
+Experimental quantity required.<br>
+
+ 
+<p>
+ 
+
+
+Output year order :  Descending <br>
+Format : Normal 
+<p>
+NSR database version of May 28, 2009.
+<p>
+Search: Nuclide = 66ga<p>
+
+Found 116 matches.
+
+&nbsp;&nbsp;&nbsp;Showing 101 to 116. 
+
+&nbsp;&nbsp;[<a href="retr_again.jsp?ks=0">Previous</a>]
+
+
+<p>
+
+<a href="index.jsp">Back to query form</a>
+
+<p>
+
+
+
+
+
+<hr>
+<b>1967CA12</b><p>
+
+
+UCRL-50156 (1967)<p>
+
+ 
+D.C.Camp<p>
+<i>Applications and Optimization of the Lithium-Drifted Germanium Detector System<p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+
+
+
+
+
+
+<hr>
+<b>1967PO08</b><p>
+
+
+Phys.Rev. 158, 1027 (1967)<p>
+
+ 
+N.T.Porile, G.B.Saha<p>
+<i>Angular Distributions of Products from Reactions of Copper Isotopes with He<sup>4</sup> Ions<p></i>
+
+
+NUCLEAR STRUCTURE <sup>64</sup>Cu, <sup>67</sup>Ga, <sup>67</sup>Cu, <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.158.1027">10.1103/PhysRev.158.1027</a>
+
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1967VA13</b><p>
+
+
+Nucl.Phys. A98, 585 (1967)<p>
+
+ 
+L.van Neste, R.Coussement, J.P.Deutsch<p>
+<i>The (0+)-(0+) Positon Decay of <sup>66</sup>Ga<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga [from Cu(&alpha;, n)]; measured T<sub>1/2</sub>, E&beta;, positon-spectrum; deduced shape factor, second-forbidden matrix elements, parent isospin-impurity.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(67)90101-7">10.1016/0375-9474(67)90101-7</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1967VR01</b><p>
+
+
+17th All-Union Conf.Nucl.Spectroscopy and Structure of Atomic Nuclei, Kharkov, p.27 (1967)<p>
+
+ 
+Y.Vrzal, B.S.Dzhelepov, Y.Liptak, L.Moskvin, V.P.Prikhodtseva, Y.Urbanets, L.G.Tsaritsyna<p>
+<i>Spectra of &gamma;-Rays of <sup>66</sup>Ga, <sup>67</sup>Ga and <sup>72</sup>Ga<p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga, <sup>67</sup>Ga, <sup>72</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+
+
+
+
+
+
+<hr>
+<b>1967VR03</b><p>
+
+
+Izv.Akad.Nauk SSSR, Ser.Fiz. 31, 1647 (1967); Bull.Acad.Sci.USSR, Phys.Ser. 31, 1687 (1968)<p>
+
+ 
+J.Vrzal, B.S.Dzhelepov, J.Liptak, L.N.Moskvin, V.P.Prikhodtseva, B.M.Sabirov, V.G.Tishin, J.Urbanets, L.G.Tsaritsyna<p>
+<i>Gamma Radiation from <sup>66</sup>Ga, <sup>67</sup>Ga and <sup>72</sup>Ga<p></i>
+
+
+NUCLEAR STRUCTURE <sup>72</sup>Ga, <sup>66</sup>Ga, <sup>67</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+
+
+
+
+
+
+<hr>
+<b>1966AC02</b><p>
+
+
+Nucl.Phys. 87, 1 (1966)<p>
+
+ 
+H.L.Acker, G.Backenstoss, C.Daum, J.C.Sens, S.A.De Wit<p>
+<i>Measurement and Analysis of Muonic X-Ray Spectra in Spherical Nuclei<p></i>
+
+
+NUCLEAR REACTIONS <sup>121</sup>Sb(&mu;<sup>-</sup>, &nu;n&gamma;), <sup>123</sup>Sb(&mu;<sup>-</sup>, &nu;n&gamma;), <sup>139</sup>La(&mu;<sup>-</sup>, &nu;n&gamma;), E &gt; 100 MeV; measured E&gamma;. <sup>120</sup>Sn, <sup>122</sup>Sn, <sup>138</sup>Ba deduced levels. <sup>66</sup>Ga [from zn(p, &gamma;)]; measured E&gamma;. Cl, Ca, Fe, Sn, Sb, Te, I, Cs, Ba, La, Ce, Pr, Nd, Au, Hg, Tl, <sup>206</sup>Pb, Pb, Bi; measured E(X-ray), I(X-ray), deduced nuclear charge distribution parameters.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0029-5582(66)90355-5">10.1016/0029-5582(66)90355-5</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1966CO05</b><p>
+
+
+Nucl.Phys. 77, 239 (1966)<p>
+
+ 
+R.E.Cote, R.Guso, S.Raboy, R.A.Carrigan, Jr., A.Gaigalas, R.B.Sutton, C.C.Trail<p>
+<i>A Note on the Measurement of the Energies of Gamma Rays from the Decay of <sup>66</sup>Ga<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga [from Zn(p, xn)]; measured E&gamma;. Natural target.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0029-5582(66)90690-0">10.1016/0029-5582(66)90690-0</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1966FR13</b><p>
+
+
+Phys.Rev. 151, 899 (1966)<p>
+
+ 
+M.S.Freedman, F.T.Porter, F.Wagner<p>
+<i>Gamma Rays from Ga<sup>66</sup><p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.151.899">10.1103/PhysRev.151.899</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1966WI13</b><p>
+
+
+Phys.Letters 23, 353 (1966)<p>
+
+ 
+K.Wien<p>
+<i>Gamma Energies of <sup>66</sup>Ga Decay<p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0031-9163(66)90464-1">10.1016/0031-9163(66)90464-1</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1965HE08</b><p>
+
+
+Yadern.Fiz. 1, 189 (1965); Soviet J.Nucl.Phys. 1, 132 (1965)<p>
+
+ 
+Z.He-Sung, N.S.Maltseva, V.N.Mekhedov, V.N.Rybakov<p>
+<i>The K-Capture Fraction of Ge<sup>66</sup>, Ge<sup>69</sup>, and As<sup>72</sup><p></i>
+
+
+NUCLEAR STRUCTURE <sup>64</sup>Cu, <sup>73</sup>As, <sup>72</sup>As, <sup>74</sup>As, <sup>68</sup>Ga, <sup>69</sup>Ge, <sup>66</sup>Ge, <sup>66</sup>Ga, <sup>67</sup>Ga, <sup>71</sup>Ge, <sup>71</sup>As; measured not abstracted; deduced nuclear properties.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1964RU06</b><p>
+
+
+Nucl.Phys. 56, 593 (1964)<p>
+
+ 
+
+G.Rudstam<p>
+<i>Peripheral Reactions in Copper Induced by 19 GeV Protons<p></i>
+
+
+RADIOACTIVITY <sup>57</sup>Ni, <sup>62</sup>Zn, <sup>66</sup>Ga, <sup>67</sup>Ga [from spallation]; measured T<sub>1/2</sub>. Natural targets. <sup>65</sup>Cu(p, p&pi;<sup>+</sup>), (p, p&pi;<sup>-</sup>), Ep=19.2 GeV; Cu, Zn, Al(p, xnyp), Ep=600 MeV; measured &sigma;.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0029-5582(64)90505-X">10.1016/0029-5582(64)90505-X</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1964ST01</b><p>
+
+
+Phys.Rev. 133, B911 (1964)<p>
+
+ 
+P.H.Stelson, F.K.McGowan<p>
+<i>Cross Sections for (&alpha;, n) Reactions for Medium-Weight Nuclei<p></i>
+
+
+NUCLEAR STRUCTURE <sup>61</sup>Zn, <sup>65</sup>Zn, <sup>63</sup>Zn, <sup>71</sup>Ge, <sup>69</sup>Ge, <sup>66</sup>Ga, <sup>68</sup>Ga, <sup>67</sup>Ge; measured not abstracted; deduced nuclear properties.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.133.B911">10.1103/PhysRev.133.B911</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1963BU23</b><p>
+
+
+Nucl.Phys. 49, 190 (1963)<p>
+
+ 
+W.Buhring<p>
+<i>Beta Decay Theory Using Exact Electron Radial Wave Functions (II)<p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0029-5582(63)90086-5">10.1016/0029-5582(63)90086-5</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1963CA03</b><p>
+
+Phys.Rev. 129, 1782 (1963)<p>
+
+ 
+D.C.Camp, L.M.Langer<p>
+<i>Shape of the 0<sup>+</sup> &rarr; 0<sup>+</sup> Positron Spectrum in Ga<sup>66</sup><p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.129.1782">10.1103/PhysRev.129.1782</a>
+</font><p>
+
+
+
+
+
+
+
+<hr>
+<b>1961LA03</b><p>
+
+
+Bull.Am.Phys.Soc. 6, No.4, 334, B2 (1961)<p>
+
+ 
+L.M.Langer, D.C.Camp, D.R.Smith<p>
+<i>Shape of the O<sup>+</sup> to O<sup>+</sup> Ga<sup>66</sup> Positron Spectrum<p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1960SC06</b><p>
+
+
+Phys.Rev. 119, 276 (1960)<p>
+
+ 
+A.Schwarzschild, L.Grodzins<p>
+<i>Decay of Ga<sup>66</sup> and Cu<sup>66</sup><p></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ga, <sup>66</sup>Cu; measured not abstracted; deduced nuclear properties.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.119.276">10.1103/PhysRev.119.276</a>
+</font><p>
+
+
+
+
+<hr>
+
+[<a href="retr_again.jsp?ks=0">Previous</a>]&nbsp;&nbsp;
+
+<a href="index.jsp">Back to query form</a>
+
+<p>
+
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<meta name="GENERATOR" content="PageBreeze Free HTML Editor (http://www.pagebreeze.com)">
+<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" >
+<title>Running Egs on WARP</title>
+</head>
+<body bgcolor="#ffffff">
+<h1 align="center">Running Egs on WARP</h1><font size="2">
+<p>egsnrc assumes you are working in tc-shell. Go into tc-schell say tcsh (to 
+leave, exit)</p>
+<p>egsnrc also assumes that you are working in a directory whose name is the 
+same as the code you are working on. For example, if you're working on 
+betaspec5.mortran, egsnrc expects you to be in a directory called 
+~/egsnrc/betaspec5.</p>
+<p>to compile and link, from within that directory say </p>
+<p>mf betaspec5 </p>
+<p>(no ".mortran" -- it's assumed, in fact it's required)</p>
+<p>To execute code interactively say</p>
+<p>ex betaspec5 "" pbcualscintsi1r </p>
+<p>where the last parameter is a concatenated pegs4 datafile 
+(pbcualscintsi1r.pegs4data) with all the materials, energy ranges, and other 
+parameters that will be needed by egsnrc</p>
+<p>Because I'm lame and doing UNIX scripts, they only work in bash so you must 
+change to bash shell</p>
+<p>To submit a batch job to run on a single processor say</p>
+<p>qsub betaspec5bat.sh</p>
+<p>in this case the number of trajectories is determined by the betaspec5.input 
+file</p>
+<p>To submit 10 batch jobs to run on 10 processors say</p>
+<p>./parsub10.job betaspec5 10000000</p>
+<p>where the number is the total number of histories. there's a parsub20.job 
+also, but rarely that many processors free on WARP</p>
+<p>Status of batch jobs may be checked using qstat</p>
+<p>(to see how many processors are being used say "qstat -f | grep ppn" and 
+count)</p>
+<p>Progress (i.e. how many histories have been processed) can be checked by 
+looking in the files in the root directory called baetspec5_0.tmp and so on. The 
+first line contains the number of histories processed so far. It updates every 
+10,000 or so and when it's nearly done it will be 1/10 (or 1/20 if using 
+parsub20.job) of the total number of histories specified.</p>
+<p>After all jobs are finished, still in bash shell, </p>
+<p>./combpar10.sh betaspec5</p>
+<p>will combine the output results of the individual jobs into one bigger job, 
+with generic names for the individual output files (e.g. newdat.dat etc.) as 
+usual there is a combpar20.sh</p>
+<p>To assign the aggregated generic output files to a run number say</p>
+<p>cpnew xxxx </p>
+<p>(where xxxx is the nun number).Now all the aggregated files that we keep you 
+have that run number in them.</p>
+<p>The output files created are</p>
+<p>xxxx.dat which is an energy histogram of all events in the detector</p>
+<p>xxxx.phdata which is an energy histogram of all events in the detector that 
+are not associated with the positron also being in the detector</p>
+<p>xxxx.*log contains a concatenation of the log files</p>
+<p>xxxx.stat contains all the standard output information from running the code 
+(including echoes of the the most important input parameters)</p>
+<p>xxxx.22</p>
+<p>xxxx.23 these are both diagnostics or trajectory tracing auxiliary files 
+which are often turned off for speed.</p></font>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p><font size="1">
+<p align="center">
+<font size="1"><a 
+href="http://www.solutionsoft.com/w2w.htm" target=_top><img height="2" 
+alt="word to html converter" hspace=0 src="b.gif" width=2 border=0></a>&nbsp;<a href="http://www.solutionsoft.com/htmlhelp.htm" target="_top"><img 
+height=2 alt="html help workshop" hspace=0 src="b.gif" width=2 
+border=0></a>&nbsp;This 
+Web Page Created with PageBreeze  
+</font>
+<a 
+href="http://www.pagebreeze.com/free-website-builder.htm" target=_blank>
+<font size="1" >
+    Free Website 
+Builder</font>
+</a>&nbsp;<a href="http://www.solutionsoft.com/htmlhelp.htm" target="_top"><img 
+height=2 alt="chm editor" hspace=0 src="b.gif" width=2 
+border=0></a>&nbsp;<a href="http://www.solutionsoft.com/perl.htm" target="_top"><img 
+height=2 alt="perl editor ide" hspace=0 src="b.gif" width=2 
+border=0></a>
+<p></p></font>
+</body>
+</html>

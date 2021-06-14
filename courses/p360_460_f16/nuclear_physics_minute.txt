@@ -1,0 +1,19 @@
+Nuclear physics is usually broadly defined as the study of the content and structure of the nuclei of atoms. It addresses the questions of the makeup of the nucleus (protons, neutrons, mesons) and the forces between the particles and how that leads to the structure we see in nuclei. Also of interest are the decay of radioactive nuclei and the study of fundamental forces using nuclei as laboratory.
+
+Current research questions include:
+Nuclei far from stability, superheavy nuclei, island of stability.
+Nuclear equation of state (bulk nuclear matter--neutron/quark stars).
+Origin of the elements (nuclear astrophysics) in stars/supernovae.
+Neutrino mass.
+
+http://dnp.nscl.msu.edu/
+Nuclear scientists probe the properties of nuclei and nuclear matter and the interactions of their ultimate constituents — quarks and gluons. They also address interdisciplinary questions: the basis of fundamental symmetries in nature, the first moments of the universe, the origin of the elements, education, and the application of nuclei and nuclear techniques to meet societal needs including medical diagnoses and treatment, energy, advanced materials, and Homeland Security.
+
+http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5627
+Supports research at the frontiers of nuclear science, including: properties and behavior of nuclei and nuclear matter under extreme conditions, and/or as they relate to astrophysical phenomena;  the quark-gluon basis for the structure and dynamics of nuclear matter; phase transitions of nuclear matter from normal nuclear density and temperature to the predicted high-temperature quark-gluon plasma; and basic interactions and fundamental symmetries.  This research involves many venues, including low-energy to multi-GeV electrons and photons; intermediate-energy light ions; low-energy to relativistic heavy ions, including radioactive beams; cold and ultra-cold neutrons; as well as non-accelerator-based experiments.
+
+http://www-nsd.lbl.gov/overview/overview.html
+The Nuclear Science Division conducts basic research aimed at understanding the structure and interactions of nuclei and the forces of nature as manifested in nuclear matter – topics that align the Division with the national program as elucidated in the 2002 U.S. Nuclear Science Long Range Plan.
+
+The Division has major programs in low energy nuclear science, including nuclear structure physics, studies of the heaviest elements, exotic nuclei and light radioactive beams, weak interactions, and nuclear reactions; relativistic heavy ion physics; nuclear theory; nuclear astrophysics and neutrino properties; data evaluation; and advanced instrumentation. The Division also operates the 88-Inch Cyclotron. The 88-Inch Cyclotron is the home of the Berkeley Accelerator Space Effects Facility (BASEF) and supports a local research program in nuclear science. The Nuclear Science Division continues to exploit new opportunities to enable cutting edge science and provides for science education of the general public and students at all levels.
+

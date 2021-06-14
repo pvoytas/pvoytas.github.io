@@ -1,0 +1,2368 @@
+
+
+
+
+<html>
+<head>
+  <title> NSR Query Results </title>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+</head>
+
+<body bgcolor="white">
+
+<p>
+<h2>NSR Query Results</h2>
+
+<p>
+<hr>
+
+
+
+<p>
+
+Publication year range : 1910 to 2009 <br>
+
+
+Primary references only.<br>
+ 
+
+
+Experimental quantity required.<br>
+
+ 
+<p>
+ 
+
+
+Output year order :  Descending <br>
+Format : Normal 
+<p>
+NSR database version of May 28, 2009.
+<p>
+Search: Nuclide = 66ga<p>
+
+Found 116 matches.
+
+&nbsp;&nbsp;&nbsp;Showing 1 to 100. 
+
+&nbsp;&nbsp;[<a href="retr_again.jsp?ks=100">Next</a>]
+
+
+<p>
+
+<a href="index.jsp">Back to query form</a>
+
+<p>
+
+
+
+
+
+<hr>
+<b>2008AG06</b><p>
+
+
+Int.J.Mod.Phys. E17, 393 (2008)<p>
+
+ 
+A.Agarwal, I.A.Rizvi, R.Kumar, B.K.Yogi, A.K.Chaubey<p>
+<i>Measurement and analysis of excitation functions and forward recoil range distributions in <sup>12</sup>C + <sup>59</sup>Co system<p></i>
+
+
+NUCLEAR REACTIONS <sup>59</sup>Co(<sup>12</sup>C, 3np), (<sup>12</sup>C, 2n2p), (<sup>12</sup>C, n&alpha;), (<sup>12</sup>C, 2n&alpha;), (<sup>12</sup>C, 3np&alpha;), (<sup>12</sup>C, 2n2&alpha;), E=60, 65, 70, 75, 80 MeV; measured E&gamma;, I&gamma;, excitation functions, cross sections, forward recoil range distributions of evaporation residues. Comparisons with calculations using ALICE-91 and CASCADE codes.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1142/S0218301308007009">10.1142/S0218301308007009</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2008YA08</b><p>
+
+
+Phys.Rev. C 77, 034315 (2008)<p>
+
+ 
+T.Yamaguchi, T.Suzuki, T.Ohnishi, F.Becker, M.Fukuda, H.Geissel, M.Hosoi, R.Janik, K.Kimura, T.Kuboki, S.Mandel, M.Matsuo, G.Munzenberg, S.Nakajima, T.Ohtsubo, A.Ozawa, A.Prochazka, M.Shindo, B.Sitar, P.Strmen, T.Suda, K.Summerer, K.Sugawara, I.Szarka, M.Takechi, A.Takisawa, K.Tanaka, M.Yamagami<p>
+<i>Nuclear matter radii of neutron-deficient Kr isotopes<p></i>
+
+
+NUCLEAR REACTIONS C(<sup>72</sup>Kr, X), (<sup>76</sup>Kr, X), (<sup>80</sup>Kr, X), E=1.05 GeV/nucleon; measured interaction cross sections, effective matter radii. <sup>63,64,65,66,67,68</sup>Ga, <sup>65,66,67,68,69,70</sup>Ge, <sup>67,68,69,70,71,72</sup>As, <sup>69,70,71,72,73</sup>Se, <sup>72,73,74,75</sup>Br, <sup>73,74,75,77,78,79,81,82,83,84,85,86,87,88,89,90</sup>Kr; systematics. Comparison with Skyrme-Hartree-Fock-Bogoliubov calculations.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevC.77.034315">10.1103/PhysRevC.77.034315</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2007AL41</b><p>
+
+
+Appl.Radiat.Isot. 65, 1101 (2007)<p>
+
+ 
+F.S.Al-Saleh, K.S.Al Mugren, A.Azzam<p>
+<i>Excitation function measurements and integral yields estimation for <sup>nat</sup>Zn(p, x) reactions at low energies<p></i>
+
+
+NUCLEAR REACTIONS Zn(p, X)<sup>62</sup>Zn/<sup>65</sup>Zn/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>68</sup>Ga, E &lt; 27.5 MeV; measured yields, cross sections, and excitation functions using stacked foil activation.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.apradiso.2007.05.004">10.1016/j.apradiso.2007.05.004</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2007NA31</b><p>
+
+
+Phys.Rev. C 76, 064609 (2007)<p>
+
+ 
+P.Napolitani, K.-H.Schmidt, L.Tassan-Got, P.Armbruster, T.Enqvist, A.Heinz, V.Henzl, D.Henzlova, A.Kelic, R.Pleskac, M.V.Ricciardi, C.Schmitt, O.Yordanov, L.Audouin, M.Bernas, A.Lafriaskh, F.Rejmund, C.Stephan, J.Benlliure, E.Casarejos, M.Fernandez-Ordonez, J.Pereira, A.Boudard, B.Fernandez, S.Leray, C.Villagrasa, C.Volant<p>
+<i>Measurement of the complete nuclide production and kinetic energies of the system <sup>136</sup>Xe+hydrogen at 1 GeV per nucleon<p></i>
+
+
+NUCLEAR REACTIONS <sup>136</sup>Xe(p, X), E=1 GeV/nucleon; measured isotopic cross sections, kinetic energies. <sup>6,7,8</sup>Li, <sup>9,10,11,12</sup>Be, <sup>10,11,12,13</sup>B, <sup>11,12,13,14,15</sup>C, <sup>13,14,15,16,17</sup>N, <sup>15,16,17,18,19</sup>O, <sup>17,18,19,20,21</sup>F, <sup>19,20,21,22,23</sup>Ne, <sup>22,23,24,25</sup>Na, <sup>23,24,25,26,27</sup>Mg, <sup>25,26,27,28,29,30</sup>Al, <sup>28,29,30,31,32</sup>Si, <sup>30,31,32,33,34</sup>P, <sup>32,33,34,35,36,37,38</sup>S, <sup>34,35,36,37,38,39,40</sup>Cl, <sup>36,37,38,39,40,41,42,43</sup>Ar, <sup>39,40,41,42,43,44,45</sup>K, <sup>41,42,43,44,45,46,47</sup>Ca, <sup>43,44,45,46,47,48,49,50</sup>Sc, <sup>45,46,47,48,49,50,51,52</sup>Ti, <sup>46,47,48,49,50,51,52,53,54,55</sup>V, <sup>49,50,51,52,53,54,55,56,57</sup>Cr, <sup>50,51,52,53,54,55,56,57,58,59,60</sup>Mn, <sup>55,56,57,58,59,60,61,62</sup>Fe, <sup>57,58,59,60,61,62,63,64,65</sup>Co, <sup>59,60,61,62,63,64,65,66,67</sup>Ni, <sup>60,61,62,63,64,65,66,67,68,69,70</sup>Cu, <sup>62,63,64,65,66,67,68,69,70,71,72</sup>Zn, <sup>66,67,68,69,70,71,72,73,74,75</sup>Ga, <sup>68,69,70,71,72,73,74,75,76,77</sup>Ge, <sup>70,71,72,73,74,75,76,77,78,79,80,81</sup>As, <sup>72,73,74,75,76,77,78,79,80,81,82,83</sup>Se, <sup>74,75,76,77,78,79,80,81,82,83,84,85</sup>Br, <sup>76,77,78,79,80,81,82,83,84,85,86,87,88</sup>Kr; measured cross sections.<p>
+
+NUCLEAR REACTIONS <sup>136</sup>Xe(p, X), E=1 GeV/nucleon; measured isotopic cross sections, kinetic energies. <sup>79,80,81,82,83,84,85,86,87,88,89,90</sup>Rb, <sup>81,82,83,84,85,86,87,88,89,90,91,92,93</sup>Sr, <sup>84,85,86,87,88,89,90,91,92,93,94,95,96</sup>Y, <sup>86,87,88,89,90,91,92,93,94,95,96,97,98,99</sup>Zr, <sup>87,88,89,90,91,92,93,94,95,96,97,98,99,100</sup>Nb, <sup>90,91,92,93,94,95,96,97,98,99,100,101,102,103,104</sup>Mo, <sup>92,93,94,95,96,97,98,99,100,101,102,103,104,105,106</sup>Tc, <sup>95,96,97,98,99,100,101,102,103,104,105,106,107,108,109</sup>Ru, <sup>97,98,99,100,101,102,103,104,105,106,107,108,109,110,111</sup>Rh, <sup>99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115</sup>Pd, <sup>101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122</sup>Ag, <sup>104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125</sup>Cd, <sup>105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127</sup>In, <sup>108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130</sup>Sn, <sup>110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132</sup>Sb, <sup>111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134</sup>Te, <sup>113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135</sup>I, <sup>116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135</sup>Xe, <sup>122,123,124,125,126,127,128,129,130,131,132,133,134,135,136</sup>Cs, <sup>127,128,129,130,131,132</sup>Ba; measured cross sections.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevC.76.064609">10.1103/PhysRevC.76.064609</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2007UD02</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B258, 313 (2007)<p>
+
+ 
+M.S.Uddin, M.U.Khandaker, K.S.Kim, Y.S.Lee, G.N.Kim<p>
+<i>Excitation functions of the proton induced nuclear reactions on <sup>nat</sup>Zn up to 40 MeV<p></i>
+
+
+NUCLEAR REACTIONS Zn(p, xn)<sup>66</sup>Ga/<sup>67</sup>Ga, E=4-40 MeV; Zn(p, xnp)<sup>62</sup>Zn/<sup>65</sup>Zn/<sup>69m</sup>Zn, E=10-40 MeV; Zn(p, xn&alpha;)<sup>61</sup>Cu, E=6-40 MeV; measured cross sections and excitation functions using stacked-foil activation technique. Compared results to calculations.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.nimb.2007.02.089">10.1016/j.nimb.2007.02.089</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2006AB30</b><p>
+
+
+Appl.Radiat.Isot. 64, 1001 (2006)<p>
+
+ 
+K.Abbas, J.Kozempel, M.Bonardi, F.Groppi, A.Alfarano, U.Holzwarth, F.Simonelli, H.Hofman, W.Horstmann, E.Menapace, L.Leseticky, N.Gibson<p>
+<i>Cyclotron production of <sup>64</sup>Cu by deuteron irradiation of <sup>64</sup>Zn<p></i>
+
+
+NUCLEAR REACTIONS <sup>64,66,67</sup>Zn(d, X)<sup>64</sup>Cu/<sup>61</sup>Cu/<sup>65</sup>Zn/<sup>69m</sup>Zn/<sup>66</sup>Ga/<sup>67</sup>Ga, E=19.5; measured thick target yields. Zn(d, X)<sup>64</sup>Cu/<sup>61</sup>Cu/<sup>67</sup>Cu/<sup>65</sup>Zn/<sup>69m</sup>Zn/<sup>67</sup>Ga, E=10-19.5 MeV; calculated thick target yields.<p>
+
+RADIOACTIVITY <sup>61,64</sup>Cu, <sup>66</sup>Ga, <sup>69m</sup>Zn [from Zn(d, X)]; measured T<sub>1/2</sub>.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.apradiso.2005.12.021">10.1016/j.apradiso.2005.12.021</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2006SI18</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. A562, 717 (2006)<p>
+
+ 
+
+B.P.Singh, M.K.Sharma, M.M.Musthafa, H.D.Bhardwaj, R.Prasad<p>
+<i>A study of pre-equilibrium emission in some proton- and alpha-induced reactions<p></i>
+
+
+NUCLEAR REACTIONS <sup>60,61</sup>Ni, <sup>93</sup>Nb, <sup>121,122</sup>Sb, <sup>130</sup>Te(p, n), E &asymp; 4-20 MeV; <sup>63,65</sup>Cu, <sup>93</sup>Nb, <sup>121,123</sup>Sb, <sup>197</sup>Au(&alpha;, n), E &asymp; 5-45 MeV; measured excitation functions. Stacked-foil activation, comparison with model predictions.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.nima.2006.02.030">10.1016/j.nima.2006.02.030</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2006SO07</b><p>
+
+
+Pramana 66, 985 (2006)<p>
+
+ 
+S.Sodaye, B.S.Tomar, A.Goswami<p>
+<i>Effect of entrance channel parameters on the fusion of two heavy ions: Excitation functions of reaction products in <sup>16</sup>O + <sup>66</sup>Zn and <sup>37</sup>Cl + <sup>45</sup>Sc reactions<p></i>
+
+
+NUCLEAR REACTIONS <sup>66</sup>Zn(<sup>16</sup>O, xnyp)<sup>78</sup>Rb/<sup>79</sup>Rb/<sup>75</sup>Br/<sup>76</sup>Br/<sup>77</sup>Br/<sup>76</sup>Kr/<sup>77</sup>Kr/<sup>73</sup>Se/<sup>67</sup>Ge/<sup>69</sup>Ge/<sup>66</sup>Ga/<sup>67</sup>Ga, E &asymp; 60-95 MeV; <sup>45</sup>Sc(<sup>37</sup>Cl, xnyp)<sup>78</sup>Rb/<sup>79</sup>Rb/<sup>75</sup>Br/<sup>76</sup>Br/<sup>77</sup>Br/<sup>76</sup>Kr/<sup>77</sup>Kr/<sup>48</sup>V/<sup>44</sup>Sc/<sup>47</sup>Sc, E &asymp; 100-125 MeV; measured excitation functions; deduced entrance channel effects, other reaction mechanism features.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2005BO10</b><p>
+
+
+J.Radioanal.Nucl.Chem. 264, 101 (2005)<p>
+
+ 
+
+M.L.Bonardi, F.Groppi, H.S.Mainardi, V.M.Kokhanyuk, E.V.Lapshina, M.V.Mebel, B.L.Zhuikov<p>
+<i>Cross section studies on <sup>64</sup>Cu with zinc target in the proton energy range from 141 down to 31 MeV<p></i>
+
+
+NUCLEAR REACTIONS Zn(p, X)<sup>64</sup>Cu/<sup>57</sup>Ni/<sup>56</sup>Ni/<sup>52</sup>Mn/<sup>54</sup>Mn/<sup>62</sup>Zn/<sup>65</sup>Zn/<sup>51</sup>Cr/<sup>48</sup>V/<sup>55</sup>Co/<sup>56</sup>Co/<sup>57</sup>Co/<sup>58</sup>Co/<sup>60</sup>Co/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>52</sup>Fe/<sup>59</sup>Fe, E &asymp; 31-141 MeV; measured production &sigma;. Stacked-foil activation.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1007/s10967-005-0681-1">10.1007/s10967-005-0681-1</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2005SZ02</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B234, 375 (2005)<p>
+
+ 
+F.Szelecsenyi, G.F.Steyn, Z.Kovacs, T.N.van der Walt, K.Suzuki, K.Okada, K.Mukai<p>
+<i>New cross-section data for the <sup>66</sup>Zn(p, n)<sup>66</sup>Ga, <sup>68</sup>Zn(p, 3n)<sup>66</sup>Ga, <sup>nat</sup>Zn(p, x)<sup>66</sup>Ga, <sup>68</sup>Zn(p, 2n)<sup>67</sup>Ga and <sup>nat</sup>Zn(p, x)<sup>67</sup>Ga nuclear reactions up to 100 Mev<p></i>
+
+
+NUCLEAR REACTIONS <sup>66</sup>Zn(p, n), <sup>68</sup>Zn(p, 2n), (p, 3n), E &asymp; 5-100 MeV; Zn(p, X)<sup>66</sup>Ga/<sup>67</sup>Ga, E &asymp; 5-100 MeV; measured production &sigma;. Stacked-foil activation, comparison with previous results.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.nimb.2005.02.011">10.1016/j.nimb.2005.02.011</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2005TA01</b><p>
+
+
+Appl.Radiat.Isot. 62, 73 (2005)<p>
+
+ 
+F.Tarkanyi, F.Ditroi, J.Csikai, S.Takacs, M.S.Uddin, M.Hagiwara, M.Baba, Yu.N.Shubin, A.I.Dityuk<p>
+<i>Activation cross-sections of long-lived products of proton-induced nuclear reactions on zinc<p></i>
+
+
+NUCLEAR REACTIONS Zn(p, X)<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>62</sup>Zn/<sup>65</sup>Zn/<sup>69m</sup>Zn/<sup>64</sup>Cu/<sup>57</sup>Ni/<sup>55</sup>Co/<sup>56</sup>Co/<sup>57</sup>Co/<sup>58</sup>Co/<sup>60</sup>Co/<sup>52</sup>Mn/<sup>54</sup>Mn, E=26-67 MeV; measured activation &sigma;, excitation functions. Stacked foil technique, comparison with model predictions.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.apradiso.2004.06.008">10.1016/j.apradiso.2004.06.008</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2004DE41</b><p>
+
+
+Yad.Fiz. 67, 1443 (2004); Phys.Atomic Nuclei 67, 1417 (2004)<p>
+
+ 
+N.A.Demekhina, G.S.Karapetyan, S.M.Lukyanov, Yu.E.Penionzhkevich, N.K.Skobelev, A.B.Yakushev<p>
+<i>Production of Heavy Nuclei in the Interaction of <sup>7</sup>Li Ions with Copper Nuclei at an Energy of 35 MeV per Nucleon<p></i>
+
+
+NUCLEAR REACTIONS Cu(<sup>7</sup>Li, X)<sup>7</sup>Be/<sup>22</sup>Na/<sup>24</sup>Na/<sup>28</sup>Mg/<sup>34m</sup>Cl/<sup>38</sup>S/<sup>38</sup>Cl/<sup>39</sup>Cl/<sup>41</sup>Ar/<sup>42</sup>K/<sup>43</sup>Sc/<sup>44</sup>Ar/<sup>44</sup>K/<sup>44</sup>Sc/<sup>44m</sup>Sc/<sup>45</sup>K/<sup>46</sup>Sc/<sup>47</sup>Ca/<sup>47</sup>Sc/<sup>48</sup>Sc/<sup>48</sup>V/<sup>48</sup>Cr/<sup>49</sup>Cr/<sup>51</sup>Cr/<sup>52</sup>Mn/<sup>52m</sup>Mn/<sup>52</sup>Fe/<sup>54</sup>Mn/<sup>55</sup>Co/<sup>56</sup>Mn/<sup>56</sup>Co/<sup>56</sup>Ni/<sup>57</sup>Co/<sup>57</sup>Ni/<sup>58</sup>Co/<sup>59</sup>Fe/<sup>60</sup>Co/<sup>60</sup>Cu/<sup>61</sup>Co/<sup>61</sup>Cu/<sup>62</sup>Zn/<sup>63</sup>Zn/<sup>64</sup>Cu/<sup>65</sup>Ni/<sup>65</sup>Zn/<sup>65</sup>Ga/<sup>66</sup>Ni/<sup>66</sup>Cu/<sup>66</sup>Ga/<sup>66</sup>Ge/<sup>67</sup>Cu/<sup>67</sup>Ga/<sup>67</sup>Ge/<sup>68</sup>Ga/<sup>69m</sup>Zn/<sup>69</sup>Ge, E=35 MeV/nucleon; measured production &sigma;; deduced mass distribution, total interaction &sigma;. Activation technique.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1134/1.1788031">10.1134/1.1788031</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2004GR01</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B213, 373 (2004)<p>
+
+ 
+F.Groppi, M.L.Bonardi, C.Birattari, L.Gini, C.Mainardi, E.Menapace, K.Abbas, U.Holzwarth, R.M.F.Stroosnijder<p>
+<i>Thin-target excitation functions and optimisation of NCA <sup>64</sup>Cu and <sup>66, 67</sup>Ga production by deuteron induced nuclear reactions on natural zinc target, for radiometabolic therapy and for PET<p></i>
+
+
+NUCLEAR REACTIONS Zn(d, X)<sup>64</sup>Cu/<sup>61</sup>Cu/<sup>67</sup>Ga/<sup>66</sup>Ga/<sup>69m</sup>Zn/<sup>66</sup>Zn/<sup>58</sup>Co/<sup>57</sup>Co, E=19 MeV; measured E&gamma;, I&gamma;, thick target yields. Zn(d, X)<sup>64</sup>Cu/<sup>61</sup>Cu, E=4-20 MeV; measured thin-target excitation functions.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0168-583X(03)01632-X">10.1016/S0168-583X(03)01632-X</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2004LI29</b><p>
+
+
+Nucl.Phys. A735, 303 (2004)<p>
+
+ 
+G.F.Lima, A.Lepine-Szily, A.C.C.Villari, W.Mittig, R.Lichtenthaler, M.Chartier, N.A.Orr, J.C.Angelique, G.Audi, E.Baldini-Neto, B.V.Carlson, J.M.Casandjian, A.Cunsolo, C.Donzaud, A.Foti, A.Gillibert, D.Hirata, M.Lewitowicz, S.Lukyanov, M.MacCormick, D.J.Morrissey, A.N.Ostrowski, B.M.Sherrill, C.Stephan, T.Suomijarvi, L.Tassan-Got, D.J.Vieira, J.M.Wouters<p>
+<i>Reaction cross section and matter radius measurements of proton-rich Ga, Ge, As, Se and Br nuclides<p></i>
+
+
+NUCLEAR REACTIONS Si(<sup>63</sup>Ga, X), (<sup>64</sup>Ga, X), (<sup>65</sup>Ga, X), (<sup>66</sup>Ga, X), (<sup>67</sup>Ga, X), (<sup>68</sup>Ga, X), (<sup>65</sup>Ge, X), (<sup>66</sup>Ge, X), (<sup>67</sup>Ge, X), (<sup>68</sup>Ge, X), (<sup>69</sup>Ge, X), (<sup>70</sup>Ge, X), (<sup>67</sup>As, X), (<sup>68</sup>As, X), (<sup>69</sup>As, X), (<sup>70</sup>As, X), (<sup>71</sup>As, X), (<sup>72</sup>As, X), (<sup>69</sup>Se, X), (<sup>70</sup>Se, X), (<sup>71</sup>Se, X), (<sup>72</sup>Se, X), (<sup>73</sup>Se, X), (<sup>72</sup>Br, X), (<sup>73</sup>Br, X), (<sup>74</sup>Br, X), (<sup>75</sup>Br, X), E &asymp; 50-60 MeV/nucleon; measured reaction &sigma;. <sup>63,64,65,66,67,68</sup>Ga, <sup>65,66,67,68,69,70</sup>Ge, <sup>67,68,69,70,71,72</sup>As, <sup>69,70,71,72,73</sup>Se, <sup>72,73,74,75</sup>Br; deduced matter radii. Glauber model analysis.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.nuclphysa.2004.01.125">10.1016/j.nuclphysa.2004.01.125</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2004TA13</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B217, 531 (2004)<p>
+
+ 
+F.Tarkanyi, S.Takacs, F.Ditroi, A.Hermanne, M.Sonck, Yu.Shubin<p>
+<i>Excitation functions of deuteron induced nuclear reactions on natural zinc up to 50 MeV<p></i>
+
+
+NUCLEAR REACTIONS Zn(d, X)<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>62</sup>Zn/<sup>65</sup>Zn/<sup>69m</sup>Zn/<sup>61</sup>Cu/<sup>64</sup>Cu/<sup>67</sup>Cu/<sup>58</sup>Co, E &asymp; 6-50 MeV; measured excitation functions. Stacked-foil activation technique, comparison with previous results and model predictions.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/j.nimb.2003.11.089">10.1016/j.nimb.2003.11.089</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2003BO15</b><p>
+
+
+J.Radioanal.Nucl.Chem. 257, 229 (2003)<p>
+
+ 
+M.L.Bonardi, F.Groppi, C.Birattari, L.Gini, C.Mainardi, A.Ghioni, E.Menapace, K.Abbas, U.Holzwarth, M.F.Stroosnijder<p>
+<i>Thin-target excitation functions and optimization of simultaneous production of NCA copper-64 and gallium-66, 67 by deuteron induced nuclear reactions on a natural zinc target<p></i>
+
+
+NUCLEAR REACTIONS Zn(d, xnypz&alpha;)<sup>65</sup>Zn/<sup>69m</sup>Zn/<sup>61</sup>Cu/<sup>64</sup>Cu/<sup>66</sup>Ga/<sup>67</sup>Ga, E=3-19 MeV; measured E&gamma;, I&gamma;, excitation functions; deduced thick-target yields. Stacked-foil activation, comparison with model predictions.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1023/A:1024703022762">10.1023/A:1024703022762</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2003CH57</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B211, 288 (2003)<p>
+
+ 
+D.P.Chowdhury, R.Guin, S.K.Saha, M.Sudersanan<p>
+<i>Excitation functions of heavy ion induced nuclear reactions between <sup>16</sup>O ion beam and natural copper: Measurements, analysis and its applicability in TLA study<p></i>
+
+
+NUCLEAR REACTIONS <sup>63</sup>Cu(<sup>16</sup>O, xnypz&alpha;)<sup>65</sup>Zn/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>69</sup>Ge/<sup>71</sup>As/<sup>73</sup>As/<sup>74</sup>As/<sup>72</sup>Se/<sup>75</sup>Se/<sup>75</sup>Br/<sup>76</sup>Kr, E=55-110 MeV; <sup>65</sup>Cu(<sup>16</sup>O, xnypz&alpha;)<sup>75</sup>Se/<sup>75</sup>Br/<sup>77</sup>Br/<sup>79</sup>Kr, E=55-110 MeV; measured excitation functions. Stacked-foil activation, application to material analysis discussed.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0168-583X(03)01323-5">10.1016/S0168-583X(03)01323-5</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2003SZ01</b><p>
+
+
+Appl.Radiat.Isot. 58, 377 (2003)<p>
+
+ 
+F.Szelecsenyi, Z.Kovacs, T.N.van der Walt, G.F.Steyn, K.Suzuki, K.Okada<p>
+<i>Investigation of the <sup>nat</sup>Zn(p, x)<sup>62</sup>Zn nuclear process up to 70MeV: a new <sup>62</sup>Zn/<sup>62</sup>Cu generator<p></i>
+
+
+NUCLEAR REACTIONS Zn(p, X)<sup>62</sup>Zn/<sup>66</sup>Ga, E &asymp; 24-70 MeV; <sup>66</sup>Zn(p, n), (p, 4np), E &asymp; 35-67 MeV; measured production &sigma;; deduced thick-target yields. Stacked-foil activation technique.<p>
+
+<FONT size=-1>
+
+doi: <a href="http://dx.doi.org/10.1016/S0969-8043(02)00345-7">10.1016/S0969-8043(02)00345-7</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2002BA38</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. A481, 365 (2002)<p>
+
+ 
+C.M.Baglin, E.Browne, E.B.Norman, G.L.Molnar, T.Belgya, Zs.Revay, F.Szelecsenyi<p>
+<i><sup>66</sup>Ga: A standard for high-energy calibration of Ge detectors<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga(EC) [from Zn(p, X)]; measured E&gamma;, I&gamma;; deduced emission probabilities. <sup>56</sup>Co(EC); compiled, analyzed &gamma;-ray emission probabilities.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0168-9002(01)01376-6">10.1016/S0168-9002(01)01376-6</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2002GA20</b><p>
+
+
+Phys.Rev. C65, 054311 (2002)<p>
+
+ 
+A.Gade, H.Klein, N.Pietralla, P.von Brentano<p>
+<i>Isovector Dipole and Quadrupole Excitations in <sup>66</sup>Zn<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga(EC) [from <sup>66</sup>Zn(p, n)]; measured E&gamma;, I&gamma;, &gamma;&gamma;-coin. <sup>66</sup>Zn deduced levels, J, &pi;, &delta;, B(E2), B(M1), mixed-symmetry states. Comparison with model predictions.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevC.65.054311">10.1103/PhysRevC.65.054311</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2002ST31</b><p>
+
+
+Radiochim.Acta 90, 309 (2002)<p>
+
+ 
+T.Stoll, S.Kastleiner, Yu.N.Shubin, H.H.Coenen, S.M.Qaim<p>
+<i>Excitation functions of proton induced reactions on <sup>68</sup>Zn from threshold up to 71 MeV, with specific reference to the production of <sup>67</sup>Cu<p></i>
+
+
+NUCLEAR REACTIONS <sup>68</sup>Zn(p, 2p), (p, 2n), (p, 3n), E=20-71 MeV; measured excitation functions. Chemical separation, comparison with model predictions.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2002TA23</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B196, 215 (2002)<p>
+
+ 
+
+F.Tarkanyi, F.Ditroi, S.Takacs, M.Al-Abyad, M.G.Mustafa, Yu.Shubin, Y.Zhuang<p>
+<i>New data and evaluation of <sup>3</sup>He-induced nuclear reactions on Cu<p></i>
+
+
+NUCLEAR REACTIONS Cu(<sup>3</sup>He, X)<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>63</sup>Zn/<sup>65</sup>Zn, E &asymp; 3-36 MeV; measured production &sigma;. Stacked-foil activation, comparison with previous results.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0168-583X(02)01286-7">10.1016/S0168-583X(02)01286-7</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2001SZ06</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B184, 589 (2001)<p>
+
+ 
+F.Szelecsenyi, K.Suzuki, Z.Kovacs, M.Takei, K.Okada<p>
+<i>Alpha Beam Monitoring via <sup>nat</sup>Cu + Alpha Processes in the Energy Range from 40 to 60 MeV<p></i>
+
+
+NUCLEAR REACTIONS Cu(&alpha;, X)<sup>61</sup>Cu/<sup>66</sup>Ga/<sup>67</sup>Ga, E=16-60 MeV; measured production &sigma;. Stacked-foil activation technique, comparison with previous results.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0168-583X(01)00793-5">10.1016/S0168-583X(01)00793-5</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>2000RA36</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. A454, 389 (2000)<p>
+
+ 
+S.Raman, C.Yonezawa, H.Matsue, H.Iimura, N.Shinohara<p>
+<i>Efficiency calibration of a Ge detector in the 0.1-11.0 MeV region<p></i>
+
+
+RADIOACTIVITY <sup>56</sup>Co, <sup>66</sup>Ga(EC) [from <sup>56</sup>Fe, <sup>66</sup>Zn(p, n)]; measured E&gamma;, I&gamma;. Comparison with previous results, use as calibration standard discussed.<p>
+
+NUCLEAR REACTIONS <sup>35</sup>Cl(n, &gamma;), E=reactor; measured E&gamma;, I&gamma;. Comparison with previous results, use as calibration standard discussed.<p>
+
+
+
+
+
+
+
+
+<hr>
+
+<b>2000TA18</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. B168, 144 (2000)<p>
+
+ 
+F.Tarkanyi, F.Szelecsenyi, S.Takacs, A.Hermanne, M.Sonck, A.Thielemans, M.G.Mustafa, Yu.Shubin, Y.Zhuang<p>
+<i>New Experimental Data, Compilation and Evaluation for the <sup>nat</sup>Cu(&alpha;, x)<sup>66</sup>Ga, <sup>nat</sup>Cu(&alpha;, x)<sup>67</sup>Ga and <sup>nat</sup>Cu(&alpha;, x)<sup>65</sup>Zn Monitor Reactions<p></i>
+
+
+NUCLEAR REACTIONS Cu(&alpha;, X)<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>65</sup>Zn, E=7-40 MeV; measured &sigma;. Stacked-foil activation technique. Comparisons with previous results.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0168-583X(99)00877-0">10.1016/S0168-583X(99)00877-0</a>
+
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1998SZ02</b><p>
+
+
+Appl.Radiat.Isot. 49, 1005 (1998)<p>
+
+ 
+F.Szelecsenyi, T.E.Boothe, S.Takacs, F.Tarkanyi, E.Tavano<p>
+<i>Evaluated Cross Section and Thick Target Yield Data Bases of Zn + p Processes for Practical Applications<p></i>
+
+
+NUCLEAR REACTIONS <sup>66</sup>Zn(p, np), (p, n), <sup>67</sup>Zn(p, n), (p, 2n), <sup>68</sup>Zn(p, 2n), (p, 3n), E=6-26 MeV; measured &sigma;; deduced thick target yields. Other data analyzed. Activation technique.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0969-8043(97)10103-8">10.1016/S0969-8043(97)10103-8</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1997LA03</b><p>
+
+Appl.Radiat.Isot. 48, 15 (1997)<p>
+
+ 
+S.Lahiri, S.Banerjee, N.R.Das<p>
+<i>Simultaneous Production of Carrier-Free <sup>65</sup>Zn and <sup>66,67,68</sup>Ga in &alpha;-Particle Activated Copper Target and Their Separation with TOA<p></i>
+
+
+NUCLEAR REACTIONS Cu(&alpha;, X)<sup>65</sup>Zn/<sup>66</sup>Ga/<sup>67</sup>Ga, <sup>68</sup>Ga, E=50 MeV; measured E&gamma;, I&gamma;; deduced residuals extraction profile. Thick targets.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0969-8043(96)00042-5">10.1016/S0969-8043(96)00042-5</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1997NA27</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. A396, 374 (1997)<p>
+
+ 
+J.E.Naya, P.Jean, F.Albernhe, S.D.Barthelmy, L.M.Bartlett, V.Borrel, B.Cordier, N.Gehrels, J.M.Lavigne, P.Leleux, A.Parsons, B.J.Teegarden, J.Tueller, G.Vedrenne, P.von Ballmoos<p>
+<i>Neutron Induced Activity in Natural and Enriched <sup>70</sup>Ge Detectors<p></i>
+
+
+NUCLEAR REACTIONS Ge, <sup>70</sup>Ge(n, X)<sup>71m</sup>Ge/<sup>75m</sup>Ge/<sup>69</sup>Ge/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>68</sup>Ga, E &asymp; 64 MeV; measured yields. Use of natural, enriched Ge detectors in astronomical gamma spectroscopy discussed.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0168-9002(97)00799-7">10.1016/S0168-9002(97)00799-7</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1996LI47</b><p>
+
+
+Radiochim.Acta 72, 109 (1996)<p>
+
+ 
+W.Li, T.Sun, D.Wu, R.Sun, L.Zhao, X.Yin, X.Zhang, Q.Luo, F.Zhang, G.Jin<p>
+<i>Target Residues from the Interaction of Copper with 20-46 MeV/Nucleon <sup>12</sup>C Ions<p></i>
+
+
+NUCLEAR REACTIONS, ICPND Cu(<sup>12</sup>C, X)<sup>24</sup>Na/<sup>28</sup>Mg/<sup>34</sup>Cl/<sup>34m</sup>Cl/<sup>39</sup>Cl/<sup>41</sup>Ar/<sup>42</sup>K/<sup>43</sup>K/<sup>44</sup>Sc/<sup>44m</sup>Sc/<sup>47</sup>Sc/<sup>48</sup>Sc/<sup>48</sup>V/<sup>48</sup>Cr/<sup>49</sup>Cr/<sup>51</sup>Cr/<sup>52</sup>Mn/<sup>52m</sup>Mn/<sup>52</sup>Fe/<sup>54</sup>Mn/<sup>55</sup>Co/<sup>56</sup>Mn/<sup>56</sup>Co/<sup>57</sup>Ni/<sup>58</sup>Co/<sup>59</sup>Fe/<sup>60</sup>Co/<sup>60</sup>Cu/<sup>61</sup>Cu/<sup>62</sup>Zn/<sup>63</sup>Zn/<sup>65</sup>Zn/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>69</sup>Ga/<sup>71</sup>As, E=20-46 MeV/nucleon; measured residuals production &sigma; vs E, cumulative or independent yields, charge distribution. Thick target, thick catcher foil technique. Fireball model, statistical binary decay.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1996SC26</b><p>
+
+
+Nucl.Phys. A607, 139 (1996)<p>
+
+ 
+
+G.J.Schmid, R.M.Chasteler, C.M.Laymon, H.R.Weller, E.F.Moore, C.R.Bybee, J.M.Drake, D.R.Tilley, G.Vavrina, P.M.Wallace<p>
+<i>Correction Factors for &gamma;-Ray Relative Intensities in the <sup>66</sup>Ga Radioisotope<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga(&beta;<sup>+</sup>), (EC); measured &gamma; spectra; deduced relative I&gamma;, detector efficiency, implications to <sup>2</sup>H(p, &gamma;) reaction astrophysical S-factor data.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/S0375-9474(96)00214-X">10.1016/S0375-9474(96)00214-X</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1996TO04</b><p>
+
+
+Appl.Radiat.Isot. 47, 297 (1996)<p>
+
+ 
+V.Tolmachev, H.Lundqvist<p>
+<i>Rapid Separation of Gallium from Zinc Targets by Thermal Diffusion<p></i>
+
+
+NUCLEAR REACTIONS Zn(p, X)<sup>66</sup>Ga/<sup>68</sup>Ga, E=20 MeV; measured &gamma; spectra; deduced Ga isotope separation. Thermal diffusion technique.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0969-8043(95)00290-1">10.1016/0969-8043(95)00290-1</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1995FE15</b><p>
+
+
+Fiz.Elem.Chastits At.Yadra 26, 831 (1995); Phys.Part.Nucl 26, 347 (1995)<p>
+
+ 
+T.Fenyes, A.Algora, Zs.Podolyak, D.Sohler, J.Timar, S.Brant, V.Paar, Lj.Simicic<p>
+<i>Structure of Odd-Odd Ga and As Nuclei, and Dynamical and Supersymmetries<p></i>
+
+
+NUCLEAR REACTIONS Cu, Zn, Ge(p, n&gamma;), (&alpha;, n&gamma;), E not given; measured E&gamma;, I&gamma;, &gamma;&gamma;-coin, I(ce), &gamma;(&theta;). <sup>66,68,70</sup>Ga, <sup>70,72,73,74,76</sup>As deduced levels, J, &pi;, &delta;, &gamma;-branching ratios. Interacting boson model.<p>
+
+NUCLEAR STRUCTURE <sup>65,67,69</sup>Zn, <sup>69,71,73,75</sup>Ge, <sup>69,71,73,75</sup>As; calculated levels. Interacting boson model.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1994EN02</b><p>
+
+
+Nucl.Phys. A575, 297 (1994)<p>
+
+ 
+P.M.Endt, C.Alderliesten<p>
+<i>Low-Spin States of <sup>66</sup>Zn Excited in the <sup>66</sup>Ga(&beta;<sup>+</sup> + &#1013;)<sup>66</sup>Zn Decay<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga(&beta;<sup>+</sup>), (EC) [from <sup>63</sup>Cu(&alpha;, n), E=80 MeV]; measured E&gamma;, I&gamma;; deduced log ft. <sup>66</sup>Zn deduced levels, &gamma;-branching ratios.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(94)90191-0">10.1016/0375-9474(94)90191-0</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1994FI01</b><p>
+
+Nucl.Phys. A569, 421 (1994)<p>
+
+ 
+U.Fister, R.Jahn, P.von Neumann-Cosel, P.Schenk, T.K.Trelle, D.Wenzel, U.Wienands<p>
+<i>Stretched Proton-Neutron Configurations in fp-Shell Nuclei (I). Experimental Results of the (&alpha;, d) Reaction<p></i>
+
+
+NUCLEAR REACTIONS <sup>40,42,44,48</sup>Ca, <sup>50,52,54</sup>Cr, <sup>54,56,58</sup>Fe, <sup>58,60,62,64</sup>Ni, <sup>64,66</sup>Zn, <sup>70,72</sup>Ge(&alpha;, d), E &asymp; 55 MeV; measured &sigma;(Ed, &theta;). <sup>42,44,46,50</sup>Sc, <sup>52,54,56</sup>Mn, <sup>56,58,60</sup>Co, <sup>60,62,64,66</sup>Cu, <sup>66,68</sup>Ga, <sup>72,74</sup>As deduced levels, L, J, &pi;, proton-neutron configurations of prominent transitions. DWBA analysis. Enriched targets.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(94)90312-3">10.1016/0375-9474(94)90312-3</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1994SI25</b><p>
+
+
+Pramana 42, 349 (1994)<p>
+
+ 
+N.L.Singh, B.J.Patel, D.R.S.Somayajulu, S.N.Chintalapudi<p>
+<i>Analysis of the Excitation Functions of (&alpha;, xnyp) Reactions on Natural Copper<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>63,65</sup>Cu(&alpha;, xnyp)<sup>68</sup>Ga/<sup>67</sup>Ga/<sup>66</sup>Ga/<sup>65</sup>Ga/<sup>65</sup>Zn, E &le; 50 MeV; measured residual production &sigma;(E). Stacked foil activation technique. Preequilibrium hybrid model.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1994SZ04</b><p>
+
+
+Appl.Radiat.Isot. 45, 473 (1994)<p>
+
+ 
+
+F.Szelecsenyi, T.E.Boothe, E.Tavano, M.E.Plitnikas, F.Tarkanyi<p>
+<i>Compilation of Cross Sections/Thick Target Yields for <sup>66</sup>Ga, <sup>67</sup>Ga and <sup>68</sup>Ga Production using Zn Targets up to 30 MeV Proton Energy<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>66,67,68</sup>Zn(p, n), <sup>67,68</sup>Zn(p, 2n), <sup>68</sup>Zn(p, 3n), E &le; 30 MeV; measured thick target residuals yields; compiled, calculated yields, &sigma;.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0969-8043(94)90114-7">10.1016/0969-8043(94)90114-7</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1994TI02</b><p>
+
+
+Nucl.Phys. A573, 61 (1994)<p>
+
+ 
+J.Timar, T.X.Quang, T.Fenyes, Zs.Dombradi, A.Krasznahorkay, J.Kumpulainen, R.Julin, S.Brant, V.Paar, Lj.Simicic<p>
+<i>Structure of <sup>66</sup>Ga from (p, n&gamma;) Reaction<p></i>
+
+
+NUCLEAR REACTIONS <sup>66</sup>Zn(p, n&gamma;), E=6.5, 6.7, 6.9, 7, 7.1 MeV; measured E&gamma;, I&gamma;, &gamma;&gamma;-coin, I(ce), relative &sigma;(E, E&gamma;). <sup>66</sup>Ga deduced levels, &gamma;-branching, J, &pi;. Hauser-Feshbach analysis. Hyperpure Ge detectors, superconducting, traditional magnetic lens plus Si(Li) electron spectrometers. Enriched target.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(94)90015-9">10.1016/0375-9474(94)90015-9</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1993AL15</b><p>
+
+
+Nucl.Instrum.Methods Phys.Res. A335, 219 (1993)<p>
+
+ 
+C.Alderliesten, J.A.van Nie, A.P.Slok, P.M.Endt<p>
+<i>Precision Energy Determination of Gamma-Rays from the <sup>66</sup>Ga(&beta;<sup>+</sup> + &#1013;)<sup>66</sup>Zn Decay<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga(&beta;<sup>+</sup>), (EC); measured E&gamma;, I&gamma;; deduced calibration standard possibility. <sup>66</sup>Zn deduced levels. Several sources used for energy calibration standards.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0168-9002(93)90273-K">10.1016/0168-9002(93)90273-K</a>
+
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1991DM01</b><p>
+
+
+At.Energ. 71, 261 (1991); Sov.At.Energy 71, 776 (1992)<p>
+
+ 
+P.P.Dmitriev, M.V.Panarin, G.A.Molin, Z.P.Dmitrieva<p>
+<i><sup>67,66</sup>Ga Yield in the Reactions <sup>66</sup><sup>-</sup><sup>68</sup>Zn(dxn)<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>66</sup>Zn(d, n), <sup>67,66</sup>Zn(d, 2n), <sup>67,68</sup>Zn(d, 3n)Zn(d, X)<sup>67</sup>Ga/<sup>66</sup>Ga, E &le; 24 MeV; measured residuals yield vs E. Thick, enriched <sup>66,67,68</sup>Zn, natural Zn targets.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1991MO06</b><p>
+
+
+Pramana 36, 115 (1991)<p>
+
+ 
+
+A.V.Mohan Rao, S.Mukherjee, J.Rama Rao<p>
+<i>Alpha Particle Induced Reactions on Copper and Tantalum<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>63</sup>Cu(&alpha;, n), <sup>65</sup>Cu(&alpha;, 3n), (&alpha;, 2n), <sup>181</sup>Ta(&alpha;, 2n), (&alpha;, 4n), E=threshold-75 MeV; measured &sigma;(E). Stacked foil technique. Hybrid, index model analyses.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1991NO02</b><p>
+
+
+Appl.Radiat.Isot. 42, 353 (1991)<p>
+
+ 
+
+F.M.Nortier, S.J.Mills, G.F.Steyn<p>
+<i>Excitation Functions and Yields of Relevance to the Production of <sup>67</sup>Ga by Proton Bombardment of (nat)Zn and (nat)Ge up to 100 MeV<p></i>
+
+
+NUCLEAR REACTIONS, ICPND Zn(p, X)<sup>65</sup>Ga/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>68</sup>Ga, E=8.4-99.6 MeV; Ge(p, X)<sup>65</sup>Ga/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>68</sup>Ga/<sup>72</sup>Ga, E=4.9-97.9 MeV; measured residuals production &sigma;, thick target yields.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1990KO16</b><p>
+
+
+Appl.Radiat.Isot. 41, 606 (1990)<p>
+
+ 
+
+P.Kopecky<p>
+<i>Cross Sections and Production Yields of <sup>66</sup>Ga and <sup>67</sup>Ga for Proton Reactions in Natural Zinc<p></i>
+
+
+NUCLEAR REACTIONS, ICPND Zn(p, xn)<sup>66</sup>Ga/<sup>67</sup>Ga, E &le; 31 MeV; measured residual production &sigma;(E).<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1990TA20</b><p>
+
+
+Radiochim.Acta 50, 19 (1990)<p>
+
+ 
+
+F.Tarkanyi, F.Szelecsenyi, Z.Kovacs, S.Sudar<p>
+<i>Excitation Functions of Proton Induced Nuclear Reactions on Enriched <sup>66</sup>Zn, <sup>67</sup>Zn and <sup>68</sup>Zn Production of <sup>67</sup>Ga and <sup>66</sup>Ga<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>66,67,68</sup>Zn(p, n), <sup>67,68</sup>Zn(p, 2n), <sup>66</sup>Zn(p, n), E=6-22 MeV; measured residuals production &sigma;(E); calculated thick target yields.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1988BH10</b><p>
+
+
+Pramana 31, 109 (1988)<p>
+
+ 
+
+H.D.Bhardwaj, A.K.Gautam, R.Prasad<p>
+<i>Measurement and Analysis of Excitation Functions for Alpha-Induced Reactions in Copper<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>63</sup>Cu(&alpha;, n), (&alpha;, 2n), (&alpha;, np), (&alpha;, 2n&alpha;), E &asymp; 10-40 MeV; measured residual production &sigma;(E). Activation technique, natural target. Statistical, preequilibrium model analyses.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1988TO08</b><p>
+
+
+Phys.Rev. C38, 267 (1988)<p>
+
+ 
+
+M.J.Tobin, P.J.Karol<p>
+<i>Unexpected Recoil Systematics of Intermediate Energy Spallation Products<p></i>
+
+
+NUCLEAR REACTIONS <sup>89</sup>Y(p, X)<sup>65</sup>Ga/<sup>66</sup>Ga/<sup>67</sup>Ge/<sup>67</sup>Ga/<sup>68</sup>Ga/<sup>69</sup>As/<sup>69</sup>Ge/<sup>70</sup>As/<sup>70</sup>Ga/<sup>71</sup>As/<sup>72</sup>As/<sup>72</sup>Ga/<sup>73</sup>Ga/<sup>74</sup>Br/<sup>74</sup>As/<sup>74</sup>Ga/<sup>75</sup>Br/<sup>75</sup>Ge/<sup>76</sup>Br/<sup>76</sup>As/<sup>77</sup>Br/<sup>77</sup>Ge/<sup>78</sup>Br/<sup>80</sup>Br/<sup>82</sup>Br, E=800 MeV; measured residual production, recoil properties. Activation technique.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevC.38.267">10.1103/PhysRevC.38.267</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1987BA45</b><p>
+
+
+Hyperfine Interactions 36, 171 (1987)<p>
+
+ 
+T.Badica, V.Cojocaru, D.Pantelica, I.Popescu, R.Ion-Mihai<p>
+<i>Gyromagnetic Factor of the 9<sup>+</sup>, 3034 keV State in <sup>66</sup>Ga<p></i>
+
+
+NUCLEAR REACTIONS <sup>56</sup>Fe(<sup>12</sup>C, np), E=45 MeV; measured &gamma;(&theta;, H). <sup>66</sup>Ga level deduced g, configuration.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1987RI09</b><p>
+
+
+J.Phys.Soc.Jpn. 56, 3135 (1987)<p>
+
+ 
+
+I.A.Rizvi, M.Afzal Ansari, R.P.Gautam, R.K.Y.Singh, A.K.Chaubey<p>
+<i>Excitation Function Studies of (&alpha;, xpyn) Reactions for <sup>63,65</sup>Cu and Pre-Equilibrium Effect<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>63,65</sup>Cu(&alpha;, xnyp)<sup>66</sup>Ga/<sup>65</sup>Zn/<sup>65</sup>Ga/<sup>68</sup>Ga/<sup>67</sup>Ga, E=40 MeV; measured residual production &sigma;(E). Stacked foil activation technique. Preequilibrium emission, geometry dependent hybrid model.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1987ZW01</b><p>
+
+
+Appl.Radiat.Isot. 38, 499 (1987)<p>
+
+ 
+
+J.Zweit, H.Sharma, S.Downey<p>
+<i>Production of Gallium-66, a Short-Lived, Positron Emitting Radionuclide<p></i>
+
+
+NUCLEAR REACTIONS, ICPND Cu(&alpha;, X)<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>64</sup>Cu/<sup>65</sup>Zn, E &le; 40 MeV; measured residues &sigma;(E). Natural target, Ge(Li) detector.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1986MO20</b><p>
+
+
+Phys.Lett. 179B, 25 (1986)<p>
+
+ 
+
+E.F.Moser, H.Daniel, T.von Egidy, F.J.Hartmann, W.Kanert, G.Schmidt, M.Nicholas, J.J.Reidy<p>
+<i>Yields of Residual Nuclei after Antiproton Annihilation in <sup>95</sup>Mo and <sup>98</sup>Mo<p></i>
+
+
+NUCLEAR REACTIONS <sup>95,98</sup>Mo(p-bar, X)<sup>93</sup>Mo/<sup>90</sup>Mo/<sup>97</sup>Nb/<sup>96</sup>Nb/<sup>95</sup>Nb/<sup>92</sup>Nb/<sup>90</sup>Nb/<sup>89</sup>Nb/<sup>95</sup>Zr/<sup>89</sup>Zr/<sup>88</sup>Zr/<sup>86</sup>Zr/<sup>90</sup>Y/<sup>88</sup>Y/<sup>87</sup>Y/<sup>86</sup>Y/<sup>85</sup>Y/<sup>84</sup>Y/<sup>85</sup>Sr/<sup>83</sup>Sr/<sup>81</sup>Sr/<sup>84</sup>Rb/<sup>83</sup>Rb/<sup>82</sup>Rb/<sup>81</sup>Rb/<sup>79</sup>Rb/<sup>79</sup>Kr/<sup>77</sup>Kr/<sup>76</sup>Kr/<sup>80</sup>Br/<sup>77</sup>Br/<sup>76</sup>Br/<sup>75</sup>Br/<sup>74</sup>Br/<sup>75</sup>Se/<sup>73</sup>Se/<sup>72</sup>Se/<sup>74</sup>As/<sup>72</sup>As/<sup>71</sup>As/<sup>69</sup>Ge/<sup>67</sup>Ga/<sup>66</sup>Ga, E=200 MeV; measured residual nuclei absolute yields. Activation method.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0370-2693(86)90429-6">10.1016/0370-2693(86)90429-6</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1986RA10</b><p>
+
+
+Radiochim.Acta 39, 61 (1986)<p>
+
+ 
+S.S.Rattan, R.J.Singh, S.M.Sahakundu, S.Prakash, M.V.Ramaniah<p>
+<i>Alpha Particle Induced Reactions of <sup>209</sup>Bi and <sup>63,65</sup>Cu<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>209</sup>Bi(&alpha;, 5n), (&alpha;, 4n), (&alpha;, 3n), E=threshold-47 MeV; measured residual production &sigma;(E). <sup>27</sup>Al(&alpha;, xnyp)<sup>22</sup>Na/<sup>23</sup>Na/<sup>28</sup>Mg, E=46.8, 44.3 MeV; <sup>63,65</sup>Cu(&alpha;, xnyp)<sup>57</sup>Co/<sup>58</sup>Co/<sup>61</sup>Cu/<sup>64</sup>Cu/<sup>65</sup>Zn/<sup>66</sup>Ga/<sup>67</sup>Ga, E=47 MeV; measured residual production &sigma;(E). Activation technique.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1985KU13</b><p>
+
+
+J.Radioanal.Nucl.Chem. 89, 447 (1985)<p>
+
+ 
+
+V.A.Kuzmenko, V.V.Remaev, K.S.Goncharov<p>
+<i>Activation Analysis with a 9.1 MeV Proton Beam<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>11</sup>B, <sup>13</sup>C, <sup>34</sup>S, <sup>44</sup>Ca, <sup>52</sup>Cr, <sup>60</sup>Ni, <sup>63</sup>Cu, <sup>66,68</sup>Zn, <sup>69</sup>Ga, <sup>70,72,76</sup>Ge, <sup>85,87</sup>Rb, <sup>86,87</sup>Sr, <sup>89</sup>Y, <sup>90</sup>Zr, <sup>93</sup>Nb, <sup>95</sup>Mo, <sup>99</sup>Ru, <sup>107</sup>Ag, <sup>110,111,112,113,116</sup>Cd, <sup>116,117</sup>Sn, <sup>128</sup>Te, <sup>127</sup>I, <sup>150</sup>Nd(p, n), <sup>14</sup>N, <sup>16</sup>O, <sup>12</sup>C(p, &alpha;), E=9.1 MeV; measured absolute thick target &gamma; yields. Activation method.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1984AB05</b><p>
+
+
+J.Nucl.Mater. 122/123, 972 (1984)<p>
+
+ 
+
+K.Abe, A.Iizuka, A.Hasegawa, S.Morozumi<p>
+<i>Induced Radioactivity of Component Materials by 16-MeV Protons and 30-MeV Alpha Particles<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>45</sup>Sc, <sup>59</sup>Co, <sup>58</sup>Ni, <sup>65</sup>Cu, <sup>66</sup>Zn, <sup>91</sup>Zr, <sup>93</sup>Nb, <sup>181</sup>Ta, <sup>197</sup>Au(p, np), <sup>46,47</sup>Ti(p, &alpha;), <sup>48</sup>Ti, <sup>51</sup>V, <sup>52</sup>Cr, <sup>56</sup>Fe, <sup>61</sup>Ni, <sup>65</sup>Cu, <sup>67</sup>Zn, <sup>72,74,76</sup>Ge, <sup>89</sup>Y, <sup>90,92,96</sup>Zr, <sup>93</sup>Nb, <sup>94,95,96</sup>Mo, <sup>107</sup>Ag, <sup>116,117,118,120,122</sup>Sn, <sup>181</sup>Ta, <sup>182</sup>W, <sup>194,196</sup>Pt, <sup>197</sup>Au(p, n), <sup>49</sup>Ti, <sup>53</sup>Cr, <sup>57</sup>Fe, <sup>62</sup>Ni, <sup>63</sup>Cu, <sup>68</sup>Zn, <sup>73</sup>Ge, <sup>94,95,96,97,100</sup>Mo, <sup>117,119</sup>Sn, <sup>182</sup>W, <sup>194,195</sup>Pt(p, 2n), E=16 MeV; <sup>45</sup>Sc, <sup>46,48</sup>Ti, <sup>51</sup>V, <sup>54</sup>Fe, <sup>63</sup>Cu, <sup>70</sup>Ge, <sup>89</sup>Y, <sup>90,96</sup>Zr, <sup>93</sup>Nb, <sup>92,94,100</sup>Mo, <sup>103</sup>Rh, <sup>107</sup>Ag, <sup>181</sup>Ta, <sup>182</sup>W, <sup>194</sup>Pt(&alpha;, n), <sup>45</sup>Sc(&alpha;, n&alpha;), <sup>45</sup>Sc, <sup>59</sup>Co(&alpha;, 2p), <sup>46</sup>Ti, <sup>50,52,54</sup>Cr, <sup>54,56</sup>Fe, <sup>70</sup>Ge, <sup>92</sup>Mo(&alpha;, np), <sup>46,49</sup>Ti, <sup>50</sup>Cr, <sup>59</sup>Co, <sup>65</sup>Cu, <sup>91</sup>Zr, <sup>93</sup>Nb, <sup>103</sup>Rh, <sup>107,109</sup>Ag, <sup>181</sup>Ta, <sup>183</sup>W(&alpha;, 2n), <sup>51</sup>V, <sup>56</sup>Fe, <sup>182</sup>W(&alpha;, 3n), <sup>186</sup>W(&alpha;, 2np), E=30 MeV; measured residuals thick target yields. Activation technique.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1984IS01</b><p>
+
+
+J.Radioanal.Nucl.Chem. 82, 135 (1984)<p>
+
+ 
+
+M.Isshiki, Y.Fukuda, K.Igaki<p>
+<i>Proton Activation Analysis of Trace Impurities in Purified Cobalt<p></i>
+
+
+NUCLEAR REACTIONS, ICPND Ti, Cr, Fe, Ni, Cu, Zn, Ga, Ge, <sup>75</sup>As, Se, Zr, <sup>93</sup>Nb, Mo, Cd, Sn, Sb, Te(p, n), Ni(p, &gamma;)<sup>48</sup>V/<sup>52</sup>Mn/<sup>56</sup>Co/<sup>61</sup>Cu/<sup>63</sup>Zn/<sup>66</sup>Ga/<sup>69</sup>Ge/<sup>72</sup>As/<sup>75</sup>Se/<sup>82</sup>Br/<sup>90</sup>Nb/<sup>93</sup>Mo/<sup>93m</sup>Mo/<sup>95</sup>Tc/<sup>111</sup>In/<sup>122</sup>Sb/<sup>121</sup>Te/<sup>130</sup>I/<sup>206</sup>Bi, E=10.4 MeV; measured E&gamma;, I&gamma;; deduced residuals thick target yields. Activation analysis.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1984PA23</b><p>
+
+
+J.Radioanal.Nucl.Chem. 84, 263 (1984)<p>
+
+ 
+
+T.Paradellis, G.Vourvopoulos, E.Paleodimopoulos<p>
+<i>The Production of Gallium-67 with a Tandem Accelerator<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>66</sup>Zn(d, n), E=7, 8.4, 9, 10 MeV; <sup>66</sup>Zn(d, 2n), E=8.4 MeV; measured residual yields, ratio. Activation technique, radiochemical separation.<p>
+
+
+
+
+
+
+
+<hr>
+<b>1983BO12</b><p>
+
+
+J.Radioanal.Chem. 76, 311 (1983)<p>
+
+ 
+M.Bonardi, C.Birattari<p>
+<i>Optimization of Irradiation Parameters for <sup>67</sup>Ga Production from (Nat)Zn(p, xn) Nuclear Reactions<p></i>
+
+
+NUCLEAR REACTIONS, ICPND Zn(p, xn), (p, xnp)<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>65</sup>Zn, E=5-45 MeV; measured residuals production &sigma;(E); calculated thick target yields. Activation technique.<p>
+
+
+
+
+
+
+
+<hr>
+<b>1983HO24</b><p>
+
+
+Int.J.Appl.Radiat.Isotop. 34, 1531 (1983)<p>
+
+ 
+T.Horiguchi, H.Kumahora, H.Inoue, Y.Yoshizawa<p>
+<i>Excitation Functions of Ge(p, xnyp) Reactions and Production of <sup>68</sup>Ge<p></i>
+
+
+NUCLEAR REACTIONS, ICPND Ge(p, xnyp)<sup>68</sup>Ge, Ge(p, xnp)<sup>68</sup>Ge/<sup>69</sup>Ge, Ge(p, xn&alpha;)<sup>66</sup>Ga/<sup>67</sup>Ga, Ge(p, xnp&alpha;)<sup>65</sup>Zn, E=19-64 MeV; measured residuals production &sigma;(E), <sup>68</sup>Ge thick target yield. Activation technique.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0020-708X(83)90288-0">10.1016/0020-708X(83)90288-0</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1983KO24</b><p>
+
+
+Phys.Rev.Lett. 51, 642 (1983)<p>
+
+ 
+L.Kowalski, P.E.Haustein, J.B.Cumming<p>
+<i>Onset of Damping in Energetic Heavy-Ion Interactions<p></i>
+
+
+NUCLEAR REACTIONS Cu(<sup>12</sup>C, X)<sup>64</sup>Cu/<sup>66</sup>Ga/<sup>67</sup>Ga/<sup>69</sup>Ge/<sup>65</sup>Zn, E=22-84 MeV/nucleon; measured forward, backward residual production ranges, transferred longitudinal momenta; deduced damped to peripheral interaction mechanism transition. Thick target, thick catcher activation technique.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevLett.51.642">10.1103/PhysRevLett.51.642</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1983LI09</b><p>
+
+
+Int.J.Appl.Radiat.Isotop. 34, 631 (1983)<p>
+
+ 
+F.E.Little, M.C.Lagunas-Solar<p>
+<i>Cyclotron Production of <sup>67</sup>Ga. Cross Sections and Thick-Target Yields for the <sup>67</sup>Zn(p, n) and <sup>68</sup>Zn(p, 2n) Reactions<p></i>
+
+NUCLEAR REACTIONS, ICPND <sup>66,67</sup>Zn(p, n)<sup>67</sup>Ga, <sup>67</sup>Zn(p, 2n), <sup>68</sup>Zn(p, 2n)<sup>67</sup>Ga, <sup>68</sup>Zn(p, 3n), E &ge; 35 MeV; measured residuals yields vs E, reaction &sigma;, production &sigma; for <sup>67</sup>Ga.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0020-708X(83)90067-4">10.1016/0020-708X(83)90067-4</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1983VA33</b><p>
+
+
+At.Energ. 55, 164 (1983); Sov.At.Energy 55, 598 (1983)<p>
+
+ 
+G.Vakilova, A.Vasidov, S.Mukhammedov, E.Pardaev, A.Rakhmanov, Zh.Saidmuradov<p>
+<i>Sensitivity of the Determination of Some Elements with Z &le; 42 by a Deuteron Activational Method in a Cyclotron<p></i>
+
+
+NUCLEAR REACTIONS, ICPND <sup>17</sup>O, <sup>42,43</sup>Ca, <sup>47</sup>Ti, <sup>50</sup>V, <sup>50</sup>Cr, <sup>54</sup>Fe, <sup>60</sup>Ni, <sup>66</sup>Zn, <sup>71</sup>Ga, <sup>70</sup>Ge, <sup>86</sup>Sr, <sup>94,96</sup>Zr, <sup>92,94,95,98</sup>Mo(d, n), <sup>43,44</sup>Ca, <sup>56</sup>Fe, <sup>63</sup>Cu, <sup>66</sup>Zn, <sup>80,82</sup>Se, <sup>87</sup>Sr, <sup>89</sup>Y, <sup>96</sup>Zr, <sup>94,95,96</sup>Mo(d, 2n), <sup>23</sup>Na, <sup>37</sup>Cl, <sup>41</sup>K, <sup>50</sup>Cr, <sup>55</sup>Mn, <sup>59</sup>Co, <sup>63</sup>Cu, <sup>68</sup>Zn, <sup>75</sup>As, <sup>81</sup>Br, <sup>89</sup>Y, <sup>94,96</sup>Zr(d, p), <sup>24,26</sup>Mg(d, &alpha;), <sup>55</sup>Mn(d, n&alpha;), E=4-12 MeV; measured residuals yield. Activation techniques.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1980LE15</b><p>
+
+
+Nucl.Phys. A344, 409 (1980)<p>
+
+ 
+
+I.S.Lee, B.L.Cohen, T.Congedo, H.N.Jow<p>
+<i>Compound Nucleus Contribution and Even-Odd Effect for (<sup>3</sup>He, p) Reactions in the Ni Region<p></i>
+
+
+NUCLEAR REACTIONS <sup>58,60,62,64</sup>Ni(<sup>3</sup>He, p), E=8, 10 MeV; measured &sigma;(Ep); deduced compound nucleus contributions. Statistical model. <sup>55</sup>Mn, <sup>54,56,57</sup>Fe, <sup>58,60,61,62,64</sup>Ni, <sup>63,65</sup>Cu, <sup>59</sup>Co, <sup>64,66,68</sup>Zn(<sup>3</sup>He, p), E=10 MeV; measured &sigma; vs Q.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(80)90399-1">10.1016/0375-9474(80)90399-1</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1978FI03</b><p>
+
+
+Nuclear Phys. A295, 513 (1978)<p>
+
+ 
+A.Filevich, A.Ceballos, M.A.J.Mariscotti, P.Thieberger, E.der Mateosian<p>
+<i>Lifetimes and g-Factors of the 6<sup>-</sup> and 7<sup>-</sup> Isomers in <sup>66</sup>Ga and <sup>68</sup>Ga<p></i>
+
+
+NUCLEAR REACTIONS <sup>56</sup>Fe(<sup>13</sup>C, 2np), E=35-60 MeV; <sup>56</sup>Fe(<sup>15</sup>N, n2p), E=50-75 MeV; measured &gamma;(&theta;, H, t). <sup>66,68</sup>Ga levels deduced T<sub>1/2</sub>, g. TDPAD. Natural target, Ge(Li) detector. Pulsed beam.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(78)90189-6">10.1016/0375-9474(78)90189-6</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1978MO21</b><p>
+
+
+Nucl.Phys. A308, 103 (1978)<p>
+
+ 
+C.Morand, M.Agard, J.F.Bruandet, A.Dauchy, A.Giorni, F.Glasser, Tsan Ung Chan<p>
+<i>Etats de Spin Eleve du <sup>66</sup>Ga<p></i>
+
+
+NUCLEAR REACTIONS <sup>64</sup>Zn(&alpha;, np&gamma;), E=22-40 MeV; <sup>63</sup>Cu(&alpha;, n&gamma;), E=18 MeV; measured &sigma;(E, E&gamma;, &theta;), &gamma;&gamma;-coin, &gamma;(t). <sup>66</sup>Ga deduced levels, J, &pi;, &gamma;-branching. Isotopic targets.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(78)90444-X">10.1016/0375-9474(78)90444-X</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1976LE03</b><p>
+
+
+Nucl.Phys. A258, 103 (1976)<p>
+
+ 
+W.Leitz, H.-E.Mahnke, W.Semmler, R.Sielemann, T.Wichert<p>
+<i>The Half-Lives of the First and Second Excited States in <sup>66</sup>Ga<p></i>
+
+
+NUCLEAR REACTIONS <sup>63</sup>Cu(&alpha;, n&gamma;), E=12.2 MeV; <sup>66</sup>Zn(p, n&gamma;), E=6.6 MeV; measured &alpha;&gamma;-delay, p&gamma;-delay, &gamma;&gamma; delayed coin. <sup>66</sup>Ga excited levels deduced T<sub>1/2</sub>, g-factor analyzed. Enriched targets. Ge(Li), Si(Li) detectors.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(76)90531-5">10.1016/0375-9474(76)90531-5</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1976MO12</b><p>
+
+
+Nucl.Instrum.Methods 133, 457 (1976)<p>
+
+ 
+R.B.Moore, S.I.Hayakawa, D.M.Rehfield<p>
+<i>A High Energy Beta Spectrometer Using an Intrinsic Germanium Crystal in a Super-Conducting Solenoid<p></i>
+
+
+RADIOACTIVITY <sup>32</sup>P, <sup>47</sup>V, <sup>64,66</sup>Ga; measured E&beta;.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1975AL18</b><p>
+
+
+Rev.Roum.Phys. 20, 421 (1975)<p>
+
+ 
+
+A.Alevra, M.Duma, R.Dumitrescu, I.R.Lukas, M.T.Magda, M.E.Nistor<p>
+<i>Measurements of Angular and Energy Distributions of Neutrons Emitted in (&alpha;, n) Reactions on <sup>66</sup>Zn and <sup>63</sup>Cu<p></i>
+
+
+NUCLEAR REACTIONS <sup>63</sup>Cu, <sup>66</sup>Zn(&alpha;, n), E=27.3 MeV; measured &sigma;(En, &theta;).<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1975MA44</b><p>
+
+
+Nucl.Phys. A255, 287 (1975)<p>
+
+ 
+
+F.M.Mann, R.W.Kavanagh<p>
+<i>(&alpha;, n) Measurements and the Determination of the Alpha Optical Potential<p></i>
+
+
+NUCLEAR REACTIONS <sup>35</sup>Cl(&alpha;, n), E=threshold-12 MeV; <sup>59</sup>Co, <sup>63,65</sup>Cu(&alpha;, n), E=threshold-18 MeV; measured &sigma;. Hauser-Feshbach calculations.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(75)90680-6">10.1016/0375-9474(75)90680-6</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1975MC07</b><p>
+
+
+Nucl.Instrum.Methods 124, 309 (1975)<p>
+
+ 
+G.J.McCallum, G.E.Coote<p>
+<i>Systematic Errors in Transition Intensities of <sup>56</sup>Co and <sup>66</sup>Ga<p></i>
+
+
+RADIOACTIVITY <sup>56</sup>Co, <sup>66</sup>Ga; measured &gamma;-ray detection efficiency; deduced corrected I&gamma;.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1975RO25</b><p>
+
+
+Z.Phys. A275, 45 (1975)<p>
+
+ 
+
+S.Roodbergen, H.Visser, W.Molendijk, H.S.Bedet, H.Verheul<p>
+<i>Transition Probabilities in the Ni-Zn Region<p></i>
+
+
+RADIOACTIVITY <sup>61</sup>Cu, <sup>63</sup>Co, <sup>60,62</sup>Zn, <sup>65,67</sup>Ga, <sup>65,66</sup>Ge; measured &gamma;&gamma;(t). <sup>61,63</sup>Ni, <sup>60,62</sup>Cu, <sup>65,67</sup>Zn, <sup>65,66</sup>Ga levels deduced T<sub>1/2</sub>, &lambda;, &delta;, B(&lambda;).<p>
+
+NUCLEAR REACTIONS Cu(p, n&gamma;), E=10 MeV; measured &gamma;&gamma;(t). <sup>63,65</sup>Zn levels deduced T<sub>1/2</sub>.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1975WE23</b><p>
+
+
+Z.Phys. A275, 127 (1975)<p>
+
+ 
+L.Westgaard, K.Aleklett, G.Nyman, E.Roeckl<p>
+<i>Beta-Decay Energies and Masses of Short-Lived Isotopes of Rubidium, Caesium, Francium, and Radium<p></i>
+
+
+RADIOACTIVITY <sup>106</sup>Rh, <sup>66</sup>Ga, <sup>79</sup>Rb, <sup>130,128,127,125</sup>Cs, <sup>223</sup>Fr, <sup>227</sup>Ra; measured E&beta;; deduced Q. <sup>76,77,78,80</sup>Rb, <sup>126,124,123,122,121,120,119</sup>Cs, <sup>222,224,225,226,227</sup>Fr, <sup>229</sup>Ra, <sup>229</sup>Ac; measured E&beta;, &beta;&gamma;-coin; deduced Q, Q limits.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1974DI14</b><p>
+
+
+Phys.Rev. C10, 1587 (1974)<p>
+
+ 
+
+F.S.Dietrich, L.F.Hansen, R.P.Koopman<p>
+<i>Lifetimes of the First Two Excited States of <sup>66</sup>Ga<p></i>
+
+
+NUCLEAR REACTIONS <sup>66</sup>Zn(p, n&gamma;), E=7.5-10 MeV; measured E&gamma;, &gamma;(t). <sup>66</sup>Ga levels deduced T<sub>1/2</sub>. Enriched target.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevC.10.1587">10.1103/PhysRevC.10.1587</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1974RO14</b><p>
+
+
+Phys.Rev. C9, 1402 (1974)<p>
+
+ 
+R.L.Robinson, H.J.Kim, J.L.C.Ford, Jr.<p>
+<i>Absolute Cross Sections for the <sup>58,60</sup>Ni(<sup>16</sup>O, X) Reactions<p></i>
+
+
+RADIOACTIVITY <sup>68,69,70</sup>As, <sup>66,68,69,72</sup>Ge, <sup>71,73</sup>Se, <sup>72</sup>Br, <sup>74</sup>Kr, <sup>66</sup>Ga, <sup>62</sup>Zn; measured E&gamma;, I&gamma;. <sup>74</sup>Br; measured E&gamma;, I&gamma;, T<sub>1/2</sub>.<p>
+
+NUCLEAR REACTIONS <sup>58,60</sup>Ni(<sup>16</sup>O, X), E=38, 42, 46 MeV; measured E&gamma;, I&gamma;; deduced &sigma;(E).<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevC.9.1402">10.1103/PhysRevC.9.1402</a>
+</font><p>
+
+
+
+
+
+
+
+<hr>
+<b>1973KO13</b><p>
+
+
+Nucl.Instrum.Methods 109, 83 (1973)<p>
+
+ 
+J.Konijn, P.F.A.Goudsmit, E.W.A.Lingeman<p>
+
+<i>A High Resolution, Large Volume Ge(Li)-NaI(Tl) Compton-Suppression Spectrometer<p></i>
+
+
+RADIOACTIVITY <sup>56,60</sup>Co, <sup>66</sup>Ga, <sup>166m</sup>Ho; measured E&gamma;, I&gamma;. <sup>174,173</sup>Lu; measured E&gamma;, I&gamma;; deduced limits on Q.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1973ST19</b><p>
+
+
+Int.J.Appl.Radiat.Isotop. 24, 369 (1973)<p>
+
+ 
+
+J.Steyn, B.R.Meyer<p>
+<i>Production of <sup>67</sup>Ga by Deuteron Bombardment of Natural Zinc<p></i>
+
+
+NUCLEAR REACTIONS Zn(d, xn), E=0-16 MeV; measured &sigma;(E). <sup>66,67</sup>Ga deduced production rates.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0020-708X(73)90015-X">10.1016/0020-708X(73)90015-X</a>
+
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1972CH34</b><p>
+
+
+Rev.Roum.Phys. 17, 751 (1972)<p>
+
+ 
+J.Christiansen, P.Heubes, H.Ingwersen, H.G.Johann, W.Klinger, W.Kreische, W.Lampert, W.Loeffler, G.Schatz, W.Witthuhn<p>
+<i>Magnetic Moments of Isomeric States in <sup>66</sup>Ga, <sup>78</sup>Br and <sup>81</sup>Br<p></i>
+
+
+NUCLEAR MOMENTS <sup>66m</sup>Ga, <sup>78m</sup>Br, <sup>81m</sup>Br; measured g.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1972CR02</b><p>
+
+
+Phys.Rev. C5, 419 (1972)<p>
+
+ 
+
+D.F.Crisler, H.B.Eldridge, R.Kunselman, C.S.Zaidins<p>
+<i>Reactions Induced by He<sup>3</sup> Ions on Zn<sup>64</sup><p></i>
+
+
+RADIOACTIVITY <sup>57</sup>Ni, <sup>57,58</sup>Co, <sup>60,61</sup>Cu, <sup>62,63,65</sup>Zn, <sup>64</sup>Cu, <sup>65,66,67</sup>Ga, <sup>66</sup>Ge; measured I&gamma;, T<sub>1/2</sub>, &gamma;-activity. Ge(Li) detector.<p>
+
+NUCLEAR REACTIONS <sup>64</sup>Zn(<sup>3</sup>He, X), E=22.2, 29.5, 37.7, 43.4 MeV; measured &sigma; for isotope production.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevC.5.419">10.1103/PhysRevC.5.419</a>
+</font><p>
+
+
+
+
+
+
+
+<hr>
+<b>1972HE11</b><p>
+
+
+Nucl.Phys. A188, 417 (1972)<p>
+
+ 
+P.Heubes, H.G.Johann, W.Klinger, W.Kreische, W.Lampert, W.Loeffler, G.Schatz, W.Witthuhn<p>
+
+<i>The Magnetic Moment of the First Excited State in <sup>66</sup>Ga<p></i>
+
+
+NUCLEAR REACTIONS <sup>66</sup>Zn(p, n&gamma;), Ep=10 MeV; measured p&gamma;(&theta;, H, t). <sup>66</sup>Ga deduced T<sub>1/2</sub>, g. Natural target.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(72)90066-8">10.1016/0375-9474(72)90066-8</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1972HI09</b><p>
+
+
+Nucl.Phys. A198, 625 (1972)<p>
+
+ 
+M.Hille, P.Hille, M.Uhl, W.Weisz<p>
+<i>Excitation Functions of (p, n) and (&alpha;, n) Reactions on Ni, Cu and Zn<p></i>
+
+
+NUCLEAR REACTIONS <sup>63</sup>Cu, <sup>66,68</sup>Zn(p, n), E=9-16 MeV; <sup>60</sup>Ni, <sup>63,65</sup>Cu(&alpha;, n), E=19-23.5 MeV; measured &sigma;(E). Natural targets.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(72)90713-0">10.1016/0375-9474(72)90713-0</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1971BE29</b><p>
+
+
+Nucl.Phys. A168, 151 (1971)<p>
+
+ 
+F.D.Becchetti, D.Dehnhard, T.G.Dzubay<p>
+<i>Coulomb Displacement Energies for 1f-2p Shell Nuclei<p></i>
+
+
+NUCLEAR REACTIONS <sup>42,43,44,46,48</sup>Ca, <sup>45</sup>Sc, <sup>46,47,48,49,50</sup>Ti, <sup>51</sup>V, <sup>50,52,53,54</sup>Cr, <sup>55</sup>Mn, <sup>54,56,57,58</sup>Fe, <sup>59</sup>Co, <sup>58,60,61,62,64</sup>Ni, <sup>63,65</sup>Cu, <sup>64,66,67,68</sup>Zn(<sup>3</sup>He, t), E=24.6 MeV; measured &sigma;(Et, &theta;), Q(IAS). Ca-Sc, Sc-Ti, Ti-V, V-Cr, Cr-Mn, Mn-Fe, Fe-Co, Co-Ni, Ni-Cu, Zn-Ga, Cu-Zn isotopes deduced Coulomb displacement energies. Enriched, natural targets. Magnetic particle spectrometer, position-sensitive detector.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(71)90656-7">10.1016/0375-9474(71)90656-7</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1971CA14</b><p>
+
+
+Nucl.Phys. A166, 349 (1971)<p>
+
+ 
+D.C.Camp, G.L.Meredith<p>
+<i>The Decays of <sup>56</sup>Co and <sup>66</sup>Ga and Precise Gamma-Ray Intensities<p></i>
+
+
+RADIOACTIVITY <sup>56</sup>Co[from 99.93% enriched <sup>56</sup>Fe(p, n)], <sup>66</sup>Ga[from 98.80% enriched <sup>66</sup>Zn(p, n)], Co, Ga chemical purification; measured E&gamma;, precise I&gamma;; deduced log ft. <sup>56</sup>Fe, <sup>66</sup>Zn deduced levels, J, &pi;. Ge(Li) with Compton suppression, three crystal pair spectrometers, adopted I&gamma; for Ge(Li) efficiency calibration.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(71)90437-4">10.1016/0375-9474(71)90437-4</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1971NA15</b><p>
+
+
+Nucl.Phys. A173, 577 (1971)<p>
+
+ 
+M.R.Najam, W.F.Davidson, W.M.Zuk, L.E.Carlson, M.A.Awal<p>
+<i>In-Beam Study of Prompt &gamma;-Rays Emitted in the <sup>66</sup>Zn(p, n&gamma;)<sup>66</sup>Ga Reaction<p></i>
+
+NUCLEAR REACTIONS <sup>66</sup>Zn(p, n&gamma;), Ep=6.00-6.82 MeV; measured E&gamma;, I&gamma;, &sigma;(E;E&gamma;, &theta;(&gamma;)), &gamma;&gamma;-coin. <sup>66</sup>Ga deduced levels, J, &pi;, &gamma;-multipolarity, &gamma;-branching. Enriched target;Ge(Li) spectrometers.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(71)90973-0">10.1016/0375-9474(71)90973-0</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970DE09</b><p>
+
+
+Verh.Deut.Phys.Ges. 6, 598 (1970)<p>
+
+ 
+F.W.N.de Boer, E.W.A.Lingeman, R.van Lieshout, R.A.Ricci<p>
+<i>Re-Examination of the <sup>66</sup>Ge Decay<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ge; measured T<sub>1/2</sub>, E&gamma;, I&gamma;, &beta;&gamma;-, &gamma;&gamma;-coin, I(ce); deduced Q, log ft. <sup>66</sup>Ga deduced levels, J, &pi;, T<sub>1/2</sub>. Ge(Li), Si(Li) detectors.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970DE39</b><p>
+
+
+Nucl.Phys. A158, 166 (1970)<p>
+
+ 
+
+F.W.N.de Boer, E.W.A.Lingeman, R.van Lieshout, R.A.Ricci<p>
+<i>Re-Examination of the <sup>66</sup>Ge Decay<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ge[from <sup>66</sup>Zn(<sup>3</sup>He, 3n), <sup>64</sup>Zn(<sup>3</sup>He, n)]; measured E&gamma;, I&gamma;, &beta;, T<sub>1/2</sub>, &gamma;&gamma;-coin; deduced log ft, Q+. <sup>66</sup>Ga deduced levels, T<sub>1/2</sub>, J, &pi;, ICC, &gamma;-multipolarity. Natural target, enriched <sup>64</sup>Zn target, Ge(Li), Si(Li) detectors.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(70)90061-8">10.1016/0375-9474(70)90061-8</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970DZ02</b><p>
+
+
+Izv.Akad.Nauk SSSR, Ser.Fiz. 34, 29 (1970); Bull.Acad.Sci.USSR, Phys.Ser. 34, 29 (1971)<p>
+
+ 
+B.S.Dzhelepov, A.V.Mozzhukhin, T.I.Popova, V.P.Prikhodtseva<p>
+<i>Decay of <sup>66</sup>Ge<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ge[from Ge(fast p, X), Fe(<sup>12</sup>C, 2n)]; measured E&gamma;, I&gamma;; deduced log ft, &beta;+/EC branching. <sup>66</sup>Ga deduced levels, J, &pi;. Ge(Li) detector.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970DZ06</b><p>
+
+
+Izv.Akad.Nauk SSSR, Ser.Fiz. 34, 1666 (1970); Bull.Acad.Sci.USSR, Phys.Ser. 34, 1481 (1971)<p>
+
+ 
+
+B.S.Dzhelepov, V.V.Ilin, T.I.Popova, V.P.Prikhodtseva<p>
+<i>The &gamma;-Rays of <sup>66</sup>Ge<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ge[from <sup>56</sup>Fe(<sup>12</sup>C, 2n)]; measured E&gamma;, I&gamma;. <sup>66</sup>Ga deduced levels. Ge(Li) detector.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970HI06</b><p>
+
+
+Phys.Rev.Lett. 25, 829 (1970)<p>
+
+ 
+
+R.A.Hinrichs, R.Sherr, G.M.Crawley, I.Proctor<p>
+<i>Anomalous L = 1 Shapes of Angular Distribution for (<sup>3</sup>He, t) Transitions to 0<sup>+</sup> Antianalog States in <sup>64,66</sup>Ga and <sup>40</sup>K<p></i>
+
+
+NUCLEAR REACTIONS <sup>40</sup>Ar, <sup>64,66</sup>Zn(<sup>3</sup>He, t), E=35 MeV; measured &sigma;(&theta;). <sup>40</sup>K, <sup>64,66</sup>Ga deduced transitions, antianalog states.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevLett.25.829">10.1103/PhysRevLett.25.829</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970MC16</b><p>
+
+
+Nucl.Phys. A150, 11 (1970)<p>
+
+ 
+T.McGee, C.L.Rao, G.B.Saha, L.Yaffe<p>
+<i>Nuclear Interactions of <sup>45</sup>Sc and <sup>68</sup>Zn with Protons of Medium Energy<p></i>
+
+
+NUCLEAR REACTIONS <sup>45</sup>Sc(p, n), (p, 2n), (p, pn), (p, 3np), (p, 3pn). <sup>68</sup>Zn(p, n), (p, 2n), (p, 3n), (p, 2p), (p, p3n)+(p, 4n), E=10-85 MeV; measured &sigma;(E).<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(70)90451-3">10.1016/0375-9474(70)90451-3</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970NO05</b><p>
+
+
+Phys.Rev.Lett. 25, 1458 (1970)<p>
+
+ 
+J.V.Noble<p>
+<i>Shapes of Angular Distributions of (<sup>3</sup>He, t) and (p, n) Transitions to 0<sup>+</sup> Antianalog States<p></i>
+
+
+NUCLEAR REACTIONS <sup>40</sup>Ar, <sup>66,64</sup>Zn(<sup>3</sup>He, t), E not given; measured nothing; analyzed &sigma;(&theta;). <sup>40</sup>K, <sup>66,64</sup>Ga deduced antianalog state transitions.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRevLett.25.1458">10.1103/PhysRevLett.25.1458</a>
+
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970PH01</b><p>
+
+
+Nucl.Phys. A149, 647 (1970)<p>
+
+ 
+M.E.Phelps, D.G.Sarantites, W.G.Winn<p>
+<i>Decay of <sup>56</sup>Co and <sup>66</sup>Ga: Energy and Intensity Standardization<p></i>
+
+
+RADIOACTIVITY <sup>56</sup>Co[from <sup>56</sup>Fe(p, n)]; <sup>66</sup>Ga[from <sup>63</sup>Cu(&alpha;, n)]; measured E&gamma;, I&gamma;, &gamma;&gamma;&gamma;-coin. <sup>56</sup>Co, <sup>66</sup>Ga deduced log ft. <sup>56</sup>Fe, <sup>66</sup>Zn deduced levels, J, &pi;. Natural Fe, Cu targets; Co, Ga chemical purification; Ge(Li), NaI(Tl) detectors, Ge(Li)-NaI(Tl) Compton suppresion, three-crystal coin spectrometer.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(70)91054-7">10.1016/0375-9474(70)91054-7</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1970ZH02</b><p>
+
+
+Izv.Akad.Nauk Kaz.SSR, Ser.Fiz.-Mat. No.4, 1 (1970)<p>
+
+ 
+O.A.Zhukova, V.I.Kanashevich, S.V.Laptev, G.P.Chursin<p>
+<i>Excitation Functions of Reactions Induced by Alpha Particles with Maximum Energy of 38 MeV on Copper Isotopes<p></i>
+
+
+NUCLEAR REACTIONS <sup>63</sup>Cu(&alpha;, n), (&alpha;, 2n), (&alpha;, pn), <sup>65</sup>Cu(&alpha;, 2n), (&alpha;, 3n), E &lt; 38 MeV; measured &sigma;(E).<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1969BA31</b><p>
+
+
+Phys.Rev. 184, 1142 (1969)<p>
+
+ 
+
+H.Bakhru, I.M.Ladenbauer-Bellis<p>
+<i>Level Structure of Ga<sup>66</sup><p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ge; measured E&gamma;, I&gamma;, &beta;&gamma;-&gamma;&gamma;-coin, &gamma;&gamma;-delay: deduced E&beta;, log ft I&beta;. <sup>66</sup>Ga deduced levels, T<sub>1/2</sub>, B(E2), B(M1), J, &pi;.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.184.1142">10.1103/PhysRev.184.1142</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1969BO21</b><p>
+
+
+Phys.Rev. 180, 987 (1969)<p>
+
+ 
+H.H.Bolotin, D.Z.McClure<p>
+<i>Level Structure of Low-Lying Excited States of Ga<sup>66</sup> Populated by the Decay of 2.2-h Ge<sup>66</sup><p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ge; measured T<sub>1/2</sub>, E&gamma;, I&gamma;, I(ce), &gamma;&gamma;-coin, &gamma;&gamma;-delay; deduced log ft. <sup>66</sup>Ga deduced levels, J, &pi;, T<sub>1/2</sub>. Ge(Li) detector.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.180.987">10.1103/PhysRev.180.987</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1969LU07</b><p>
+
+
+Phys.Rev. 186, 1086 (1969)<p>
+
+ 
+C.C.Lu, M.S.Zisman, B.G.Harvey<p>
+<i>High-Spin States of Configuration (1d<sub>5/2</sub>)<sup>2</sup>(5<sup>+</sup>, 0) and (1g<sub>9/2</sub>)<sup>2</sup>(9<sup>+</sup>, 0) Strongly Populated by the (&alpha;, d) Reaction<p></i>
+
+
+NUCLEAR REACTIONS <sup>13,14</sup>C, <sup>15</sup>N, <sup>20</sup>Ne(&alpha;, d), E = 40.1, 46, 45.4, 44.5 MeV; measured &sigma;(Ed, &theta;). <sup>15,16</sup>N, <sup>17</sup>O, <sup>22</sup>Na deduced levels, J, &pi;, configuration. <sup>52</sup>Cr, <sup>54,56</sup>Fe, <sup>58,60,62</sup>Ni, <sup>64,66,68</sup>Zn(&alpha;, d), E = 50 MeV; measured &sigma;(Ed, &theta;). <sup>54</sup>Mn, <sup>56,58</sup>Co, <sup>60,62,64</sup>Cu, <sup>66,68,70</sup>Ga deduced levels, J, &pi;, configurations.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.186.1086">10.1103/PhysRev.186.1086</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1969RU02</b><p>
+
+
+Nucl.Phys. A127, 305 (1969)<p>
+
+ 
+F.H.Ruddy, B.D.Pate<p>
+<i>Formation and Decay of the Compound Nucleus <sup>68</sup>Ge (I). Experiment and the Independence Hypothesis<p></i>
+
+
+NUCLEAR REACTIONS <sup>64</sup>Zn(&alpha;, &gamma;), (&alpha;, n), (&alpha;, p), (&alpha;, 2n), (&alpha;, pn), E=9-38 MeV; <sup>56</sup>Fe(<sup>12</sup>C, n), (<sup>12</sup>C, p), (<sup>12</sup>C, 2n), (<sup>12</sup>C, pn), E=37-44 MeV; <sup>52</sup>Cr(<sup>16</sup>O, n), (<sup>16</sup>O, p), (<sup>16</sup>O, 2n), (<sup>16</sup>O, pn), E=39-48 MeV; measured &sigma;(E), recoil ranges. Enriched targets.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(69)90573-9">10.1016/0375-9474(69)90573-9</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1969SA08</b><p>
+
+
+Nucl.Phys. A130, 97 (1969)<p>
+
+ 
+D.G.Sarantites, S.Gronemeyer<p>
+<i>A Ge(Li)-Ge(Li) Study of the Decay of 2.4 h <sup>66</sup>Ge<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ge; measured E&gamma;, I&gamma;, E&beta;<sup>+</sup>, &gamma;&gamma;-, &beta;<sup>+</sup>&gamma;-coin; deduced Q, log ft. <sup>66</sup>Ga deduced levels, J, &pi;. Ge(Li), anthracene detectors.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(69)90963-4">10.1016/0375-9474(69)90963-4</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1969ST08</b><p>
+
+
+Nucl.Phys. A132, 195 (1969)<p>
+
+ 
+M.G.Strauss, F.R.Lenkszus<p>
+<i>Precise Energy Determinations of &gamma;-Rays from <sup>66</sup>Ga<p></i>
+
+
+RADIOACTIVITY <sup>66</sup>Ga [from <sup>64</sup>Zn(&alpha;, 2n)]; measured E&gamma;. <sup>66</sup>Zn deduced levels. Natural target.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0375-9474(69)90622-8">10.1016/0375-9474(69)90622-8</a>
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1969ST22</b><p>
+
+
+Nucl.Instr.Methods 76, 285 (1969)<p>
+
+ 
+M.G.Strauss, F.R.Lenkszus, J.J.Eichholz<p>
+<i>Simple and Accurate Calibration Technique for Measuring &gamma;-Ray Energies and Ge(Li) Detector Linearity<p></i>
+
+
+RADIOACTIVITY <sup>22,24</sup>Na, <sup>51</sup>Cr, <sup>54</sup>Mn, <sup>60</sup>Co, <sup>66</sup>Ga, <sup>88</sup>Y, <sup>137</sup>Cs, <sup>203</sup>Hg, <sup>207</sup>Bi, <sup>208</sup>Tl; measured E&gamma;. Ge(Li) detector.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1968BO20</b><p>
+
+
+Priv.Comm. (1968)<p>
+
+ 
+
+H.H.Bolotin<p>
+<i></i>
+
+
+NUCLEAR STRUCTURE <sup>66</sup>Ge, <sup>66</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+
+
+
+
+
+
+<hr>
+<b>1968FU08</b><p>
+
+
+Phys.Rev. 173, 1055 (1968)<p>
+
+ 
+I.Fujiwara, N.T.Porile<p>
+<i>Angular-Distribution Study of the Cu<sup>65</sup>(He<sup>3</sup>, xn) Reaction Products<p></i>
+
+
+NUCLEAR REACTIONS <sup>65</sup>Cu(<sup>3</sup>He, n), (<sup>3</sup>He, 2n), E=17-32 MeV; measured &sigma;(En, &theta;).<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1103/PhysRev.173.1055">10.1103/PhysRev.173.1055</a>
+
+</font><p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1968LU04</b><p>
+
+
+UCRL-17989, p.61 (1968)<p>
+
+ 
+C.-C.Lu, M.S.Zisman, B.G.Harvey<p>
+<i>High Spin Proton-Neutron Two-Particle Levels in the Medium-Mass (54 &lt; a &lt; 70) Region<p></i>
+
+
+NUCLEAR STRUCTURE <sup>54</sup>Mn, <sup>66</sup>Ga, <sup>68</sup>Ga; measured not abstracted; deduced nuclear properties.<p>
+
+
+
+
+
+
+
+
+<hr>
+<b>1968LU05</b><p>
+
+
+Phys.Lett. 27B, 217 (1968)<p>
+
+ 
+
+C.C.Lu, M.S.Zisman, B.G.Harvey<p>
+<i>Proton-Neutron Two-Particle Excited States of the (1g<sub>9</sub>/<sub>2</sub>)<sup>2</sup> 9<sup>+</sup> Configuration<p></i>
+
+
+NUCLEAR REACTIONS <sup>52</sup>Cr, <sup>54,56</sup>Fe, <sup>58,60,62</sup>Ni, <sup>64,66,68</sup>Zn(&alpha;, d), E=50 MeV; measured &sigma;(Ed, &theta;). <sup>54</sup>Mn, <sup>56,58</sup>Co, <sup>60,62,64</sup>Cu, <sup>66,68,70</sup>Ga deduced level of (g<sub>9</sub>/<sub>2</sub>)<sub>2</sub> configuration. Enriched targets.<p>
+
+<FONT size=-1>
+doi: <a href="http://dx.doi.org/10.1016/0370-2693(68)90276-1">10.1016/0370-2693(68)90276-1</a>
+</font><p>
+
+
+
+
+<hr>
+
+<a href="index.jsp">Back to query form</a>
+
+&nbsp;&nbsp;[<a href="retr_again.jsp?ks=100">Next</a>]<br>
+
+<p>
+
+
+</body>
+</html>

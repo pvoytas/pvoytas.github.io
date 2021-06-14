@@ -1,0 +1,448 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="CONTENT-TYPE" content="text/html; charset=windows-1252">
+	<title>Physics 380: Digital Electronics</title>
+	<meta name="GENERATOR" content="OpenOffice.org 2.4  (Win32)">
+	<meta name="AUTHOR" content="eageorge">
+	<meta name="CREATED" content="20041011;17300000">
+	<meta name="CHANGEDBY" content="paul voytas">
+	<meta name="CHANGED" content="20081016;12283291">
+	<style type="text/css">
+	<!--
+		@page { size: 8.5in 11in; margin: 0.5in }
+		P { margin-bottom: 0.08in; direction: ltr; color: #000000; text-align: left; widows: 2; orphans: 2 }
+		P.western { font-family: "Times New Roman", serif; font-size: 10pt; so-language: en-US }
+		P.cjk { font-family: "Times New Roman", serif; font-size: 10pt; so-language: zxx }
+		P.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
+		H1 { margin-top: 0in; margin-bottom: 0in; direction: ltr; color: #000000; text-align: left; widows: 2; orphans: 2 }
+		H1.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-US; font-weight: medium }
+		H1.cjk { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx; font-weight: medium }
+		H1.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; font-weight: medium }
+		H2 { margin-top: 0in; margin-bottom: 0in; direction: ltr; color: #000000; text-align: left; widows: 2; orphans: 2 }
+		H2.western { font-family: "Californian FB", serif; font-size: 12pt; so-language: en-US }
+		H2.cjk { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zxx }
+		H2.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
+		A:link { color: #0000ff }
+	-->
+	</style>
+</head>
+<body lang="en-US" text="#000000" link="#0000ff" dir="ltr">
+<p align="center" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Physics
+380: Digital Electronics</b></font></font></p>
+<p align="center" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Fall
+2008</b></font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Instructor:</b></font></font><font face="Arial, sans-serif"><font size="3">
+ 		Paul Voytas</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Office:</b></font></font><font face="Arial, sans-serif"><font size="3">		307
+Science, x7823</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Email:</b></font></font><font face="Arial, sans-serif"><font size="3">		pvoytas@wittenberg.edu
+(email is probably more reliable than voicemail)</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>My
+Webpage:</b></font></font><font face="Arial, sans-serif"><font size="3">	http://userpages.wittenberg.edu/pvoytas/index.html</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Class
+Web site:
+	</b></font></font><font color="#0000ff"><u><a href="http://userpages.wittenberg.edu/pvoytas/courses/p380_f08/p380_f08.html"><font face="Arial, sans-serif">http://userpages.wittenberg.edu/pvoytas/courses/p380_f08/p380_f08.html</font></a></u></font><font face="Arial, sans-serif"><font size="3">,
+where homework and reading assignments and other material for the
+course will be available.</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Text:</b></font></font><font face="Arial, sans-serif"><font size="3">
+ </font></font><font face="Arial, sans-serif"><font size="3"><u>Principles
+of Electronic Instrumentation</u></font></font><font face="Arial, sans-serif"><font size="3">
+3rd edition, Diefenderfer and Holton</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Course
+description: </b></font></font><font face="Arial, sans-serif"><font size="3">This
+course builds on what you’ve learned about analog electronics
+to introduce you to digital electronics.  The emphasis will be on a
+hands-on, practical understanding. Labs are the central part of the
+course. We will first investigate the fundamentals of digital
+electronics, including Boolean logic, gates, flip-flops, clocks,
+counters, and memory.  Then we will look at methods of
+digital-to-analog and analog-to-digital conversion. Finally, we will
+apply these concepts to a simple (but surprisingly powerful)
+programmable microcontroller. The course will be project-oriented;
+students will be able to choose specific applications based on their
+interests.  If there is time and interest, we may also make use of
+circuit simulation software.</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Readings:
+</b></font></font><font face="Arial, sans-serif"><font size="3"> There
+will generally be assigned readings in both texts before each class
+period. Doing the readings will 1) help with homework and 2) enable
+you to get more out of the lab.</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Labs:</b></font></font><font face="Arial, sans-serif"><font size="3">
+Keep all your work in lab in a </font></font><font face="Arial, sans-serif"><font size="3"><u><b>permanently-bound</b></u></font></font><font face="Arial, sans-serif"><font size="3">
+</font></font><font face="Arial, sans-serif"><font size="3"><u><b>quadrille-ruled</b></u></font></font><font face="Arial, sans-serif"><font size="3">
+notebook </font></font><font face="Arial, sans-serif"><font size="3"><u><b>in
+ink</b></u></font></font><font face="Arial, sans-serif"><font size="3">.
+ The notebooks will be collected and graded after every experiment.
+Only things that don’t fall out of the notebook when the
+notebook is inverted and shaken will be graded!</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Homework:</b></font></font><font face="Arial, sans-serif"><font size="3">
+Problems and questions will generally be assigned for each class
+period and will be due at the beginning of class. Some will be over
+material covered the previous class period (review questions), and
+some will be over the material for the upcoming class period
+(preparation questions).  </font></font><font face="Arial, sans-serif"><font size="2" style="FONT-SIZE: 11pt">Late
+homework will be accepted for half credit until the beginning of the
+next class after the assignment was due.</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Exams:</b></font></font><font face="Arial, sans-serif"><font size="3">
+There will be a “mid-term” exam after the first half of
+the course and then a comprehensive final exam. Both exams will have
+written and practical parts. </font></font>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Grading:</b></font></font><font face="Arial, sans-serif"><font size="3">
+	Homework:   	15%</font></font></p>
+<h1 class="western"><font face="Arial, sans-serif">		Lab books:	20%</font></h1>
+<h1 class="western">                      <font face="Arial, sans-serif">Project:
+	15%</font></h1>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3">		Midterm:
+      	25%	</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3">		Final:
+            25%</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3">Letter
+grades will be assigned according to the percentage of possible
+points you have accumulated at the end of the semester.  You are
+guaranteed that the divisions between grades will be no higher than
+the following:  90%</font></font><font face="Arial, sans-serif"><font size="3">=</font></font><font face="Arial, sans-serif"><font size="3">
+A</font></font><sup><font face="Arial, sans-serif"><font size="3">-</font></font></sup><font face="Arial, sans-serif"><font size="3">,A
+</font></font><font face="Arial, sans-serif"><font size="3">= </font></font><font face="Arial, sans-serif"><font size="3">100%,
+80% </font></font><font face="Arial, sans-serif"><font size="3">=</font></font><font face="Arial, sans-serif"><font size="3">
+B</font></font><sup><font face="Arial, sans-serif"><font size="3">-</font></font></sup><font face="Arial, sans-serif"><font size="3">,B,
+B</font></font><sup><font face="Arial, sans-serif"><font size="3">+</font></font></sup><font face="Arial, sans-serif"><font size="3">&lt;90%,
+70% </font></font><font face="Arial, sans-serif"><font size="3">=</font></font><font face="Arial, sans-serif"><font size="3">
+C</font></font><sup><font face="Arial, sans-serif"><font size="3">-</font></font></sup><font face="Arial, sans-serif"><font size="3">,C,
+C</font></font><sup><font face="Arial, sans-serif"><font size="3">+</font></font></sup><font face="Arial, sans-serif"><font size="3">&lt;80%,
+60% </font></font><font face="Arial, sans-serif"><font size="3">=</font></font><font face="Arial, sans-serif"><font size="3">
+D</font></font><sup><font face="Arial, sans-serif"><font size="3">-</font></font></sup><font face="Arial, sans-serif"><font size="3">,D,
+D</font></font><sup><font face="Arial, sans-serif"><font size="3">+</font></font></sup><font face="Arial, sans-serif"><font size="3">&lt;70%,
+F&lt;60%. In borderline cases, attendance, class participation, and
+trend in exam scores will be used to decide whether to award the
+higher grade. </font></font>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in; PAGE-BREAK-BEFORE: always">
+<font face="Arial, sans-serif"><font size="3"><b>Accommodations: </b></font></font><font face="Arial, sans-serif"><font size="3">Any
+student with a documented disability who needs to arrange reasonable
+accommodations must contact each professor at the beginning of the
+semester.  Early notification is highly preferable.  Contact may be
+made by private consultation during my office hours or by contacting
+by email or phone. Please contact the office of the Assistant Provost
+for Academic Services at 937-327-7924 in room 208 Recitation Hall to
+coordinate accommodations and receive self-identification letters for
+each professor.</font></font></p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Attendance:
+</b></font></font><font face="Arial, sans-serif"><font size="3">Unless
+something physically prevents you from doing so, contact me </font></font><font face="Arial, sans-serif"><font size="3"><i>before</i></font></font><font face="Arial, sans-serif"><font size="3">
+class if you are going to be absent. Makeup labs and exams will be
+available only in cases of excused absences. </font></font>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+<p class="western" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>Tentative
+course schedule:</b></font></font></p>
+<table width="718" border="1" bordercolor="#000000" cellpadding="7" cellspacing="0">
+  <colgroup>
+	<col width="86">
+	<col width="207">
+	<col width="87">
+	<col width="280">
+	<tr valign="top">
+		<td width="86">
+			<p class="western" align="center"><font face="Arial, sans-serif"><font size="3"><b>date</b></font></font></p>
+		</td>
+		<td width="207">
+			<p class="western" align="center"><font face="Arial, sans-serif"><font size="3"><b>topics</b></font></font></p>
+		</td>
+		<td width="87">
+			<p class="western" align="center"><font face="Arial, sans-serif"><font size="3"><b>Laboratory</b></font></font></p>
+		</td>
+		<td width="280">
+			<p class="western" align="center" style="MARGIN-BOTTOM: 0in"><font face="Arial, sans-serif"><font size="3"><b>readings
+			in Diefenderfer</b></font></font></p>
+			<p class="western" align="center"><font face="Arial, sans-serif"><font size="3"><b>(in
+			general read these before class)</b></font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">10/16/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">Why digital?</font></h1>
+			<h1 class="western"><font face="Arial, sans-serif">Logic families</font></h1>
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Gates
+			</font></font>
+			</p>
+		</td>
+		<td width="87" valign="top">
+			<h1 class="western"></h1>
+		</td>
+		<td width="280" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">10-1,10-2,”Other
+			Relaxation Oscillators” on p 224,10-5</font></h1>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">10/23/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">Binary, octal,
+			hexidecimal representations</font></h1>
+		</td>
+		<td width="87" valign="top">
+			<h1 class="western" align="left"><font face="Arial, sans-serif">Lab7</font></h1>
+		</td>
+		<td width="280" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">handout</font></h1>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">10/28/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">Gate
+			combinations and Boolean logic</font></h1>
+		</td>
+		<td width="87" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">d1</font></h1>
+		</td>
+		<td width="280" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">11-1:11-5,13-2</font></h1>
+			<h1 class="western"></h1>
+			<h1 class="western"></h1>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">10/30/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">Flip-flops</font></h1>
+		</td>
+		<td width="87" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">d1</font></h1>
+		</td>
+		<td width="280" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif">12-1, 12-2</font></h1>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">11/04/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Flip-flops;
+			digital readouts </font></font>
+			</p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d2</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">12-3</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">11/06/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Counters</font></font></p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d2</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">12-4,
+			12-5</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<h1 class="western" align="right"><font face="Arial, sans-serif">11/11/08</font></h1>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Registers,
+			multiplexers, one-shots</font></font></p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d3</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">12-5,
+			12-6, 12-7</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">11/13/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<h1 class="western"><font face="Arial, sans-serif"><b>Exam 1</b></font></h1>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><br>
+			</p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">11/18/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Microcontrollers</font></font></p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d3</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">13-3;
+			Microcontroller handout</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">11/20/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Analog
+			to digital conversion</font></font></p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d4</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">14-7;
+			A/D handout</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">11/25/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">A/D
+			and digital to analog</font></font></p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d4</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">14-6;
+			D/A Handout</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">12/02/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">D/A;
+			project </font></font>
+			</p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d5</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Handout</font></font></p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">12/04/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">Finish
+			5/project</font></font></p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">d5</font></font></p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">12/09/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">project</font></font></p>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><br>
+			</p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><br>
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="86" valign="bottom">
+			<p class="western" align="right"><font face="Arial, sans-serif"><font size="3">12/11/08</font></font></p>
+		</td>
+		<td width="207" valign="top">
+			<h2 class="western" ><font face="Arial, sans-serif">project</font></h2>
+		</td>
+		<td width="87" valign="top">
+			<p class="western"><br>
+			</p>
+		</td>
+		<td width="280" valign="top">
+			<p class="western"><br>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="86">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">12/15/08
+			(W)</font></font></p>
+		</td>
+		<td width="207">
+			<h2 class="western"><font face="Arial, sans-serif">Final exam </font>
+			</h2>
+		</td>
+		<td width="87">
+			<p class="western"><br>
+			</p>
+		</td>
+		<td width="280">
+			<p class="western"><font face="Arial, sans-serif"><font size="3">12-3</font></font></p>
+		</td>
+	</tr>
+</table>
+<p class="western" style="MARGIN-BOTTOM: 0in"><br>
+</p>
+</body>
+</html>
